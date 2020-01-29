@@ -1,4 +1,4 @@
-//Anirml's Loot filter //Updated for Patch 18 Flint. Last updated 26-01-2020 OBS still missing new relic code!
+//Anirml's Loot filter //Updated for Patch 18 Flint. Last updated 29-01-2020 OBS still missing new relic code!
 //OBS autoupdate will remove any changes made to filter!
 //Find item codes at: https://pathofdiablo.com/wiki/index.php?title=Loot_Filtration_Codes
 
@@ -223,8 +223,6 @@ ItemDisplay[gpy]: %ORANGE%P %YELLOW%TOPAZ
 ItemDisplay[skz]: %ORANGE%P %TAN%SKULL
 
 //***Your own custom items here***
-ItemDisplay[wsp NMAG !ETH !RW SOCK=4 (SK102<3 OR SK114<3 OR SK118<3 OR 119<3 OR SK121<3 OR 112<3 OR 101<3)]: %NAME% %ORANGE%Holy Thunder RW Base %WHITE%[%SOCKETS%]
-ItemDisplay[wsp NMAG !ETH !SUP !INF !RW SOCK=0 (SK102<3 OR SK114<3 OR SK118<3 OR 119<3 OR SK121<3 OR 112<3 OR 101<3)]: %NAME% %ORANGE%Cube for 4os (Holy Thunder) %WHITE%[%SOCKETS%]
 
 
 
@@ -3741,6 +3739,9 @@ ItemDisplay[7ws !ETH !RW NMAG ED>0 ED<14 !SOCK=1 !SOCK=2]: %NAME%%BLUE% +ED %YEL
 ItemDisplay[7ws !ETH !RW NMAG ED=14 !SOCK=1 !SOCK=2]: %DGREEN%%NAME%%BLUE% +14%ED %RED%[%SOCKETS%]
 ItemDisplay[7ws !ETH !RW NMAG ED=15 !SOCK=1 !SOCK=2]: %DGREEN%%NAME%%BLUE% +15%ED %PURPLE%[%SOCKETS%]
 ItemDisplay[7ws !ETH NMAG]: %NAME% %WHITE%[%SOCKETS%]
+//Holy Thunder Runeword Bases (60 teleport charges)
+ItemDisplay[wsp NMAG !ETH !RW SOCK=4]: %NAME% %ORANGE%Holy Thunder RW Base %WHITE%[%SOCKETS%]
+ItemDisplay[wsp NMAG !ETH !SUP !INF !RW SOCK=0]: %NAME% %ORANGE%Cube for 4os (Holy Thunder) %WHITE%[%SOCKETS%]
 
 ////Crossbows////
 //
