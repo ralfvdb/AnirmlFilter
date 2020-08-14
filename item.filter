@@ -40,13 +40,15 @@ ItemDisplay[cx6]: %PURPLE%Diablo's Soulstone
 ItemDisplay[cx7]: %PURPLE%¤¤¤ KEY OF CHAOS ¤¤¤
 ItemDisplay[cx8]: %PURPLE%Enchantment Orb
 ItemDisplay[cx9]: %PURPLE%%NAME%
-ItemDisplay[ma1]: %PURPLE%%NAME%
-ItemDisplay[ma2]: %PURPLE%%NAME%%RED% TIER 4
+ItemDisplay[ma1]: %PURPLE%%NAME%%RED% TIER 1
+ItemDisplay[ma2]: %PURPLE%%NAME%%RED% TIER 3
 ItemDisplay[ma3]: %PURPLE%%NAME%
-ItemDisplay[ma4]: %PURPLE%%NAME%%RED% TIER 1
-ItemDisplay[ma5]: %PURPLE%%NAME%%RED% TIER 2
+ItemDisplay[ma4]: %PURPLE%%NAME%%RED% TIER 2
+ItemDisplay[ma5]: %PURPLE%%NAME%%RED% TIER 1
 ItemDisplay[ma6]: %PURPLE%%NAME%%RED% TIER 3
-ItemDisplay[ma7]: %PURPLE%%NAME%
+ItemDisplay[ma7]: %PURPLE%%NAME%%RED% TIER 3
+ItemDisplay[ma8]: %PURPLE%%NAME%%RED% TIER 2
+ItemDisplay[ma9]: %PURPLE%%NAME%%RED% TIER 2
 ItemDisplay[maz]: %PURPLE%%NAME%
 ItemDisplay[UNI !ID cm4]: %RED%  ¤ Horadrim Sigil ¤  %RED%
 //Wirt's Leg
