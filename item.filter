@@ -2686,6 +2686,7 @@ ItemDisplay[sbr !ETH !RW NMAG ED=15 SOCK=2 ILVL<55]: %GRAY%%NAME%%BLUE% +15%ED %
 //Falchion
 
 //Crystal Sword - spirit, cta, 6os etc
+ItemDisplay[crs CLVL<55 !ETH NMAG SOCK=4]: %DGREEN%%NAME% %GRAY%[%SOCKETS%]
 ItemDisplay[crs !ETH NMAG SOCK=5]: %DGREEN%%NAME% %GRAY%[%SOCKETS%]
 ItemDisplay[crs !ETH NMAG SOCK>2]: %NAME% %GRAY%[%SOCKETS%]
 ItemDisplay[crs ETH NMAG (SOCK=4 OR SOCK=5)]: %DGREEN%ETH %NAME% %GRAY%[%SOCKETS%]
