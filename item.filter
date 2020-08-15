@@ -49,6 +49,7 @@ ItemDisplay[ma6]: %PURPLE%%NAME%%RED% TIER 3
 ItemDisplay[ma7]: %PURPLE%%NAME%%RED% TIER 3
 ItemDisplay[ma8]: %PURPLE%%NAME%%RED% TIER 2
 ItemDisplay[ma9]: %PURPLE%%NAME%%RED% TIER 2
+ItemDisplay[ma10]: %PURPLE%%NAME%
 ItemDisplay[maz]: %PURPLE%%NAME%
 ItemDisplay[UNI !ID cm4]: %RED%  ¤ Horadrim Sigil ¤  %RED%
 //Wirt's Leg
