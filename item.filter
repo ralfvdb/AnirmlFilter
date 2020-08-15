@@ -1,4 +1,4 @@
-//Anirml's Loot filter //Updated for Patch 19 Zincite. Last updated 14-08-2020
+//Anirml's Loot filter //Updated for Patch 19 Zincite. Last updated 15-08-2020
 //OBS autoupdate will remove any changes made to filter!
 //Find item codes at: https://pathofdiablo.com/wiki/index.php?title=Loot_Filtration_Codes
 
@@ -71,7 +71,7 @@ ItemDisplay[isc CLVL>40]:
 //
 ItemDisplay[wms CLVL<60]: %GREEN%!%WHITE%Thaw
 ItemDisplay[wms CLVL>59]:
-ItemDisplay[yps CLVL<20 OR CLVL>79]: %GREEN%!%WHITE%Antidote
+ItemDisplay[yps (CLVL<20 OR CLVL>79)]: %GREEN%!%WHITE%Antidote
 ItemDisplay[yps (CLVL>19 AND CLVL<80)]:
 //Keys for Locked Chests
 ItemDisplay[key]: %WHITE%Key
