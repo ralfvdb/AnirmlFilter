@@ -71,7 +71,7 @@ ItemDisplay[isc CLVL>40]:
 //
 ItemDisplay[wms CLVL<60]: %GREEN%!%WHITE%Thaw
 ItemDisplay[wms CLVL>59]:
-ItemDisplay[yps (CLVL<20 OR CLVL>79)]: %GREEN%!%WHITE%Antidote
+ItemDisplay[yps (CLVL<20 OR CLVL>79)]: %GREEN%!%WHITE%A
 ItemDisplay[yps (CLVL>19 AND CLVL<80)]:
 //Keys for Locked Chests
 ItemDisplay[key]: %WHITE%Key
