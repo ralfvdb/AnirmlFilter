@@ -1,4 +1,4 @@
-//Anirml's Loot filter //Updated for Patch 19 Zincite. Last updated 15-08-2020
+//Anirml's Loot filter //Updated for Patch 19 Zincite. Last updated 17-08-2020
 //OBS autoupdate will remove any changes made to filter!
 //Find item codes at: https://pathofdiablo.com/wiki/index.php?title=Loot_Filtration_Codes
 
@@ -2137,6 +2137,7 @@ ItemDisplay[MAG lbt ILVL>84]: %ORANGE%Caster Boots%WHITE% [L%ILVL%]
 
 //HELMS
 //Blood Helm + Ral + RUBY + Jewel
+ItemDisplay[MAG hlm ILVL>82]: %ORANGE%Blood Helm%WHITE% [L%ILVL%]
 ItemDisplay[MAG xlm ILVL>82]: %ORANGE%Blood Helm%WHITE% [L%ILVL%]
 ItemDisplay[MAG ulm ILVL>82]: %ORANGE%Blood Helm%WHITE% [L%ILVL%]
 //
