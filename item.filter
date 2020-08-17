@@ -2067,12 +2067,12 @@ ItemDisplay[SET]: %NAME%
 //Gloves
 //Blood Gloves (Heavy Gloves/Sharkskin/Vampirebone) + NEF + RUBY + JEWEL
 //Heavy Gloves
-//ItemDisplay[MAG vgl ILVL=85]: %ORANGE%Blood Gloves%WHITE% [L%ILVL%]
-//ItemDisplay[MAG vgl ILVL=86]: %ORANGE%Blood Gloves%WHITE% [L%ILVL%]
-//ItemDisplay[MAG vgl ILVL=87]: %ORANGE%Blood Gloves%WHITE% [L%ILVL%]
-//ItemDisplay[MAG vgl ILVL=88]: %ORANGE%Blood Gloves%WHITE% [L%ILVL%]
-//ItemDisplay[MAG vgl ILVL=89]: %ORANGE%Blood Gloves%WHITE% [L%ILVL%]
-//ItemDisplay[MAG vgl ILVL=90]: %ORANGE%Blood Gloves%WHITE% [L%ILVL%]
+ItemDisplay[MAG vgl ILVL=85]: %ORANGE%Blood Gloves%WHITE% [L%ILVL%]
+ItemDisplay[MAG vgl ILVL=86]: %ORANGE%Blood Gloves%WHITE% [L%ILVL%]
+ItemDisplay[MAG vgl ILVL=87]: %ORANGE%Blood Gloves%WHITE% [L%ILVL%]
+ItemDisplay[MAG vgl ILVL=88]: %ORANGE%Blood Gloves%WHITE% [L%ILVL%]
+ItemDisplay[MAG vgl ILVL=89]: %ORANGE%Blood Gloves%WHITE% [L%ILVL%]
+ItemDisplay[MAG vgl ILVL=90]: %ORANGE%Blood Gloves%WHITE% [L%ILVL%]
 //Sharkskin & Vampirebone Gloves
 ItemDisplay[MAG xvg ILVL=85]: %ORANGE%Blood Gloves%WHITE% [L%ILVL%]
 ItemDisplay[MAG xvg ILVL=86]: %ORANGE%Blood Gloves%WHITE% [L%ILVL%]
@@ -2094,9 +2094,9 @@ ItemDisplay[MAG (xvg OR uvg) ILVL=95]: %ORANGE%Blood Gloves%WHITE% [L%ILVL%]
 
 //Hit Power Gloves (Chain Gloves/Heavy Bracers/Vambraces) + ORT + SAPPHIRE + JEWEL
 //Chain Gloves
-ItemDisplay[MAG vgl ILVL=85]: %ORANGE%Hit Power Gloves%WHITE% [L%ILVL%]
-ItemDisplay[MAG vgl ILVL=86]: %ORANGE%Hit Power Gloves%WHITE% [L%ILVL%]
-ItemDisplay[MAG vgl ILVL=87]: %ORANGE%Hit Power Gloves%WHITE% [L%ILVL%]
+ItemDisplay[MAG mgl ILVL=85]: %ORANGE%Hit Power Gloves%WHITE% [L%ILVL%]
+ItemDisplay[MAG mgl ILVL=86]: %ORANGE%Hit Power Gloves%WHITE% [L%ILVL%]
+ItemDisplay[MAG mgl ILVL=87]: %ORANGE%Hit Power Gloves%WHITE% [L%ILVL%]
 //Heavy Bracers & Vambraces
 ItemDisplay[MAG xmg ILVL=85]: %ORANGE%Hit Power Gloves%WHITE% [L%ILVL%]
 ItemDisplay[MAG xmg ILVL=86]: %ORANGE%Hit Power Gloves%WHITE% [L%ILVL%]
