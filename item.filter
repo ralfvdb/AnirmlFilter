@@ -70,12 +70,13 @@ ItemDisplay[tsc CLVL>40]:
 ItemDisplay[isc CLVL<41]: %GREEN%!%WHITE%ID
 ItemDisplay[isc CLVL>40]:
 //
-ItemDisplay[wms CLVL<60]: %GREEN%!%WHITE%Thaw
-ItemDisplay[wms CLVL>59]:
-ItemDisplay[yps (CLVL<20 OR CLVL>79)]: %GREEN%!%WHITE%A
-ItemDisplay[yps (CLVL>19 AND CLVL<80)]:
+ItemDisplay[wms CLVL<20]: %GREEN%!%WHITE%Thaw
+ItemDisplay[wms CLVL>19]:
+ItemDisplay[yps (CLVL<20)]: %GREEN%!%WHITE%A
+ItemDisplay[yps (CLVL>19)]:
 //Keys for Locked Chests
-ItemDisplay[key]: %WHITE%Key
+ItemDisplay[key CLVL<30]: %WHITE%Key
+ItemDisplay[key CLVL>29]:
 //Tomes
 ItemDisplay[tbk]: %WHITE%Tome of Town Portal
 ItemDisplay[ibk]: %WHITE%Tome of Identify
