@@ -1,4 +1,4 @@
-//Anirml's Loot filter //Updated for Patch 19 Zincite. Last updated 17-08-2020
+//Anirml's Loot filter //Updated for Patch 19 Zincite. Last updated 21-08-2020
 //OBS autoupdate will remove any changes made to filter!
 //Find item codes at: https://pathofdiablo.com/wiki/index.php?title=Loot_Filtration_Codes
 
@@ -75,7 +75,7 @@ ItemDisplay[wms CLVL>19]:
 ItemDisplay[yps (CLVL<20)]: %GREEN%!%WHITE%A
 ItemDisplay[yps (CLVL>19)]:
 //Keys for Locked Chests
-ItemDisplay[key CLVL<30]: %WHITE%Key
+ItemDisplay[key CLVL<30]: %GRAY%Key
 ItemDisplay[key CLVL>29]:
 //Tomes
 ItemDisplay[tbk]: %WHITE%Tome of Town Portal
@@ -3824,7 +3824,6 @@ ItemDisplay[7ws !ETH !RW NMAG ED=15 !SOCK=1 !SOCK=2]: %DGREEN%%NAME%%BLUE% +15%E
 ItemDisplay[7ws !ETH NMAG]: %NAME% %WHITE%[%SOCKETS%]
 //Holy Thunder Runeword Bases (60 teleport charges)
 ItemDisplay[wsp NMAG !ETH !RW SOCK=4]: %NAME% %ORANGE%Holy Thunder RW Base %WHITE%[%SOCKETS%]
-ItemDisplay[wsp NMAG !ETH !SUP !INF !RW SOCK=0]: %NAME% %ORANGE%Cube for 4os (Holy Thunder) %WHITE%[%SOCKETS%]
 
 ////Crossbows////
 //
