@@ -8,8 +8,9 @@ ItemDisplay[GOLD<1000 CLVL<40]:
 ItemDisplay[GOLD<3000 (CLVL>39 AND CLVL<=69)]:
 ItemDisplay[GOLD<5000 CLVL>69]:
 //Health & Mana Potions
-ItemDisplay[rvl]: %PURPLE%R %WHITE%70%
-ItemDisplay[rvs]: %PURPLE%r %WHITE%35%
+ItemDisplay[rvl]: %PURPLE%!%WHITE%R+
+ItemDisplay[rvs CLVL<70]: %PURPLE%!%WHITE%R
+ItemDisplay[rvs CLVL>69]:
 ItemDisplay[hp5]: %RED%!%WHITE%H+
 ItemDisplay[mp4]: %BLUE%!%WHITE%M
 ItemDisplay[mp5]: %BLUE%!%WHITE%M+
@@ -70,13 +71,14 @@ ItemDisplay[tsc CLVL>40]:
 ItemDisplay[isc CLVL<41]: %GREEN%!%WHITE%ID
 ItemDisplay[isc CLVL>40]:
 //
-ItemDisplay[wms CLVL<20]: %GREEN%!%WHITE%Thaw
-ItemDisplay[wms CLVL>19]:
-ItemDisplay[yps (CLVL<20)]: %GREEN%!%WHITE%A
-ItemDisplay[yps (CLVL>19)]:
+ItemDisplay[wms CLVL<41]: %GREEN%!%WHITE%Thaw
+ItemDisplay[wms CLVL>40]:
+ItemDisplay[yps CLVL<41]: %GREEN%!%WHITE%Anti
+ItemDisplay[yps (CLVL>40 AND CLVL<80)]:
+ItemDisplay[yps CLVL>79]: %GREEN%!%WHITE%Anti
 //Keys for Locked Chests
-ItemDisplay[key CLVL<30]: %GRAY%Key
-ItemDisplay[key CLVL>29]:
+ItemDisplay[key CLVL<71]: %GRAY%Key
+ItemDisplay[key CLVL>70]:
 //Tomes
 ItemDisplay[tbk]: %WHITE%Tome of Town Portal
 ItemDisplay[ibk]: %WHITE%Tome of Identify
