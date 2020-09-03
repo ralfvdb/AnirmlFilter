@@ -293,7 +293,10 @@ ItemDisplay[MAG cm1 !ID ILVL=47]: %BLUE%¤ %NAME% %ORANGE%[L%ILVL%]%BLUE% ¤
 ItemDisplay[MAG cm1 ILVL=47]: %NAME% %ORANGE%[L%ILVL%]
 ItemDisplay[MAG cm1 ILVL>89]: %NAME% %ORANGE%[L%ILVL%]
 //
-ItemDisplay[!UNI (cm1 OR cm2 OR cm3)]: %NAME%%WHITE% [L%ILVL%]
+ItemDisplay[!UNI ID (cm1 OR cm2 OR cm3)]: %NAME%%WHITE% [L%ILVL%]
+ItemDisplay[!UNI !ID (cm1 OR cm3)]: %NAME%%WHITE% [L%ILVL%]
+ItemDisplay[!UNI !ID (cm2 AND CLVL<60)]: %NAME%%WHITE% [L%ILVL%]
+ItemDisplay[!UNI !ID (cm2 AND CLVL>59)]:
 
 //Amulets
 ItemDisplay[MAG amu ILVL=88]: %BLUE%%NAME%%ORANGE% [CLVL 92+]
