@@ -39,18 +39,18 @@ ItemDisplay[cx5]: %PURPLE%Orb of Corruption
 ItemDisplay[cx6]: %PURPLE%Diablo's Soulstone
 ItemDisplay[cx7]: %PURPLE%¤¤¤ KEY OF CHAOS ¤¤¤
 ItemDisplay[cx8]: %PURPLE%Enchantment Orb
-ItemDisplay[cx9]: %NAME%
-ItemDisplay[ma1]: %NAME%
-ItemDisplay[ma2]: %NAME%
-ItemDisplay[ma3]: %NAME%
-ItemDisplay[ma4]: %NAME%
-ItemDisplay[ma5]: %NAME%
-ItemDisplay[ma6]: %NAME%
-ItemDisplay[ma7]: %NAME%
-ItemDisplay[ma8]: %NAME%
-ItemDisplay[ma9]: %NAME%
-ItemDisplay[ma10]: %NAME%
-ItemDisplay[maz]: %NAME%
+ItemDisplay[cx9]: %RED%%NAME%
+ItemDisplay[ma1]: %RED%%NAME%
+ItemDisplay[ma2]: %RED%%NAME%
+ItemDisplay[ma3]: %RED%%NAME%
+ItemDisplay[ma4]: %RED%%NAME%
+ItemDisplay[ma5]: %RED%%NAME%
+ItemDisplay[ma6]: %RED%%NAME%
+ItemDisplay[ma7]: %RED%%NAME%
+ItemDisplay[ma8]: %RED%%NAME%
+ItemDisplay[ma9]: %RED%%NAME%
+ItemDisplay[ma10]: %RED%%NAME%
+ItemDisplay[maz]: %RED%%NAME%
 ItemDisplay[UNI !ID cm4]: %RED%  ¤ Horadrim Sigil ¤  %RED%
 //Wirt's Leg
 ItemDisplay[leg]: %NAME%
