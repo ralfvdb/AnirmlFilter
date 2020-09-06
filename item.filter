@@ -567,14 +567,9 @@ ItemDisplay[UNI !ID uld ETH]: %RED%O ETH Leviathan %RED%O
 ItemDisplay[UNI !ID uul !ETH]: %TAN%Steel Carapace
 //Steel Carapace
 ItemDisplay[UNI !ID uul ETH]: %RED%ETH Steel Carapace
-//Templar's Might
-ItemDisplay[UNI !ID uar !ETH]: %RED%O Templar's Might %RED%O
-//Templar's Might
-ItemDisplay[UNI !ID uar ETH]: %RED%ETH Templar's Might
-//Tyrael's Might
-ItemDisplay[UNI !ID uar !ETH]: %RED%O %PURPLE%Tyrael's Might %RED%O
-//Tyrael's Might
-ItemDisplay[UNI !ID uar ETH]: %RED%O %PURPLE%ETH Tyrael's Might %RED%O
+//Tyrael's Might or Templar's Might
+ItemDisplay[UNI !ID uar !ETH]: %RED%O %PURPLE%Tyrael's or Templar's Might %RED%O
+ItemDisplay[UNI !ID uar ETH]: %RED%O %PURPLE%ETH Tyrael's or Templar's Might %RED%O
 
 ////Unique Shields
 //
