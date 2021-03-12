@@ -2897,7 +2897,6 @@ ItemDisplay[72h ETH !RW NMAG SOCK=3]: %DARK_GREEN%ETH %NAME% %RED%[%SOCKETS%]
 ItemDisplay[72h ETH !RW NMAG SOCK=0]: %DARK_GREEN%ETH %NAME% %RED%[%SOCKETS%]
 //Legend Sword non ED
 ItemDisplay[72h !ETH !RW NMAG SOCK=3]: %WHITE%%NAME% %GRAY%[%SOCKETS%]
-ItemDisplay[72h !ETH !RW NMAG SOCK=0]: %NAME%
 
 //Highland Blade
 ItemDisplay[7cm !ETH !RW NMAG ED=15 !SOCK=1]: %GRAY%%NAME%%BLUE% +15%ED %WHITE%[%SOCKETS%]
