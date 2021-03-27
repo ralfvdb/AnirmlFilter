@@ -146,21 +146,21 @@ ItemDisplay[r16]: %TAN%%RUNENAME% [%RUNENUM%]
 ItemDisplay[r17]: %MAP%%ORANGE%   %RUNENAME% [%RUNENUM%]   %ORANGE%{%ORANGE%Lum %WHITE%+ %ORANGE%Pul %WHITE%+ P.%GREEN%Emerald %WHITE%+ %TAN%Exceptional Unique Weapon %WHITE%-> %TAN%Elite Version of Weapon%NL%%ORANGE%Best Crafts Info%WHITE%%NL%}
 ItemDisplay[r18]: %MAP%%ORANGE%   %RUNENAME% [%RUNENUM%]   %ORANGE%{%ORANGE%Ko %WHITE%+ %ORANGE%Lem %WHITE%+ P.Diamond + %TAN%Exceptional Unique Armor %WHITE%-> %TAN%Elite Version of Armor%NL%%ORANGE%Ko %WHITE%+ %ORANGE%Pul %WHITE%+ P.%PURPLE%Amethyst %WHITE%+ %YELLOW%Exceptional Rare Armor %WHITE%-> %YELLOW%Elite Ver Rare Armor%NL%%ORANGE%Best Crafts Info%WHITE%%NL%}
 ItemDisplay[r19]: %MAP%%ORANGE%   %RUNENAME% [%RUNENUM%]   %ORANGE%{%ORANGE%Fal %WHITE%+ %ORANGE%Um %WHITE%+ P.%BLUE%Sapphire %WHITE%+ %YELLOW%Exceptional Rare Weapon %WHITE%-> %YELLOW%Elite Ver Rare Weapon%NL%%ORANGE%Best Crafts Info%WHITE%%NL%}
-ItemDisplay[r20]: %SOUND-418%%MAP%%NOTIFY-PURPLE%%NL%%PURPLE%  OO %RED%%RUNENAME%%PURPLE% OO [%RUNENUM%]  %RED%%NL%{%ORANGE%Ko %WHITE%+ %ORANGE%Lem %WHITE%+ P.Diamond + %TAN%Exceptional Unique Armor %WHITE%-> %TAN%Elite Version of Armor%NL%%ORANGE%Best Crafts Info%WHITE%%NL%}
-ItemDisplay[r21]: %SOUND-418%%MAP%%NOTIFY-PURPLE%%NL%%PURPLE%  OOO %RED%%RUNENAME%%PURPLE% OOO [%RUNENUM%]  %RED%%NL%{%ORANGE%Lum %WHITE%+ %ORANGE%Pul %WHITE%+ P.%GREEN%Emerald %WHITE%+ %TAN%Exceptional Unique Weapon %WHITE%-> %TAN%Elite Version of Weapon%NL%%ORANGE%Ko %WHITE%+ %ORANGE%Pul %WHITE%+ P.%PURPLE%Amethyst %WHITE%+ %YELLOW%Exceptional Rare Armor %WHITE%-> %YELLOW%Elite Ver Rare Armor%NL%%ORANGE%Best Crafts Info%WHITE%%NL%}
-ItemDisplay[r22]: %SOUND-418%%MAP%%NOTIFY-PURPLE%%NL%%PURPLE%  OOO %RED%%RUNENAME%%PURPLE% OOO [%RUNENUM%]  %RED%%NL%{%ORANGE%Fal %WHITE%+ %ORANGE%Um %WHITE%+ P.%BLUE%Sapphire %WHITE%+ %YELLOW%Exceptional Rare Weapon %WHITE%-> %YELLOW%Elite Ver Rare Weapon%NL%%ORANGE%Best Crafts Info%WHITE%%NL%}
-ItemDisplay[r23]: %SOUND-418%%MAP%%NOTIFY-PURPLE%%NL%%PURPLE%  OOO %RED%%RUNENAME%%PURPLE% OOO [%RUNENUM%]  %RED%%NL%
+ItemDisplay[r20]: %MAP%%NOTIFY-PURPLE%%NL%%PURPLE%  OO %RED%%RUNENAME%%PURPLE% OO [%RUNENUM%]  %RED%%NL%{%ORANGE%Ko %WHITE%+ %ORANGE%Lem %WHITE%+ P.Diamond + %TAN%Exceptional Unique Armor %WHITE%-> %TAN%Elite Version of Armor%NL%%ORANGE%Best Crafts Info%WHITE%%NL%}
+ItemDisplay[r21]: %MAP%%NOTIFY-PURPLE%%NL%%PURPLE%  OOO %RED%%RUNENAME%%PURPLE% OOO [%RUNENUM%]  %RED%%NL%{%ORANGE%Lum %WHITE%+ %ORANGE%Pul %WHITE%+ P.%GREEN%Emerald %WHITE%+ %TAN%Exceptional Unique Weapon %WHITE%-> %TAN%Elite Version of Weapon%NL%%ORANGE%Ko %WHITE%+ %ORANGE%Pul %WHITE%+ P.%PURPLE%Amethyst %WHITE%+ %YELLOW%Exceptional Rare Armor %WHITE%-> %YELLOW%Elite Ver Rare Armor%NL%%ORANGE%Best Crafts Info%WHITE%%NL%}
+ItemDisplay[r22]: %MAP%%NOTIFY-PURPLE%%NL%%PURPLE%  OOO %RED%%RUNENAME%%PURPLE% OOO [%RUNENUM%]  %RED%%NL%{%ORANGE%Fal %WHITE%+ %ORANGE%Um %WHITE%+ P.%BLUE%Sapphire %WHITE%+ %YELLOW%Exceptional Rare Weapon %WHITE%-> %YELLOW%Elite Ver Rare Weapon%NL%%ORANGE%Best Crafts Info%WHITE%%NL%}
+ItemDisplay[r23]: %MAP%%NOTIFY-PURPLE%%NL%%PURPLE%  OOO %RED%%RUNENAME%%PURPLE% OOO [%RUNENUM%]  %RED%%NL%
 //24-33
-ItemDisplay[r24]: %SOUND-418%%MAP%%NOTIFY-PURPLE%%NL%%PURPLE% OOOO %RED%%RUNENAME%%PURPLE% OOOO [%RUNENUM%] %RED%%NL%
-ItemDisplay[r25]: %SOUND-418%%MAP%%NOTIFY-PURPLE%%NL%%PURPLE% OOOO %RED%%RUNENAME%%PURPLE% OOOO [%RUNENUM%] %RED%%NL%
-ItemDisplay[r26]: %SOUND-418%%MAP%%NOTIFY-PURPLE%%NL%%PURPLE% OOOOO %RED%%RUNENAME%%PURPLE% OOOOO [%RUNENUM%] %RED%%NL%
-ItemDisplay[r27]: %SOUND-418%%MAP%%NOTIFY-PURPLE%%NL%%PURPLE% OOOOO %RED%%RUNENAME%%PURPLE% OOOOO [%RUNENUM%] %RED%%NL%
-ItemDisplay[r28]: %SOUND-418%%MAP%%NOTIFY-PURPLE%%NL%%PURPLE% OOOOOO %RED%%RUNENAME%%PURPLE% OOOOOO [%RUNENUM%] %RED%%NL%
-ItemDisplay[r29]: %SOUND-418%%MAP%%NOTIFY-PURPLE%%NL%%PURPLE% OOOOOO %RED%%RUNENAME%%PURPLE% OOOOOO [%RUNENUM%] %RED%%NL%
-ItemDisplay[r30]: %SOUND-418%%MAP%%NOTIFY-PURPLE%%NL%%PURPLE% OOOOOO %RED%%RUNENAME%%PURPLE% OOOOOO [%RUNENUM%] %RED%%NL%
-ItemDisplay[r31]: %SOUND-418%%MAP%%NOTIFY-PURPLE%%NL%%PURPLE% OOOOOO %RED%%RUNENAME%%PURPLE% OOOOOO [%RUNENUM%] %RED%%NL%
-ItemDisplay[r32]: %SOUND-418%%MAP%%NOTIFY-PURPLE%%NL%%PURPLE% OOOOO %RED%%RUNENAME%%PURPLE% OOOOO [%RUNENUM%] %RED%%NL%
-ItemDisplay[r33]: %SOUND-418%%MAP%%NOTIFY-PURPLE%%NL%%PURPLE% OOOOO %RED%%RUNENAME%%PURPLE% OOOOO [%RUNENUM%] %RED%%NL%
+ItemDisplay[r24]: %MAP%%NOTIFY-PURPLE%%NL%%PURPLE% OOOO %RED%%RUNENAME%%PURPLE% OOOO [%RUNENUM%] %RED%%NL%
+ItemDisplay[r25]: %MAP%%NOTIFY-PURPLE%%NL%%PURPLE% OOOO %RED%%RUNENAME%%PURPLE% OOOO [%RUNENUM%] %RED%%NL%
+ItemDisplay[r26]: %MAP%%NOTIFY-PURPLE%%NL%%PURPLE% OOOOO %RED%%RUNENAME%%PURPLE% OOOOO [%RUNENUM%] %RED%%NL%
+ItemDisplay[r27]: %MAP%%NOTIFY-PURPLE%%NL%%PURPLE% OOOOO %RED%%RUNENAME%%PURPLE% OOOOO [%RUNENUM%] %RED%%NL%
+ItemDisplay[r28]: %MAP%%NOTIFY-PURPLE%%NL%%PURPLE% OOOOOO %RED%%RUNENAME%%PURPLE% OOOOOO [%RUNENUM%] %RED%%NL%
+ItemDisplay[r29]: %MAP%%NOTIFY-PURPLE%%NL%%PURPLE% OOOOOO %RED%%RUNENAME%%PURPLE% OOOOOO [%RUNENUM%] %RED%%NL%
+ItemDisplay[r30]: %MAP%%NOTIFY-PURPLE%%NL%%PURPLE% OOOOOO %RED%%RUNENAME%%PURPLE% OOOOOO [%RUNENUM%] %RED%%NL%
+ItemDisplay[r31]: %MAP%%NOTIFY-PURPLE%%NL%%PURPLE% OOOOOO %RED%%RUNENAME%%PURPLE% OOOOOO [%RUNENUM%] %RED%%NL%
+ItemDisplay[r32]: %MAP%%NOTIFY-PURPLE%%NL%%PURPLE% OOOOO %RED%%RUNENAME%%PURPLE% OOOOO [%RUNENUM%] %RED%%NL%
+ItemDisplay[r33]: %MAP%%NOTIFY-PURPLE%%NL%%PURPLE% OOOOO %RED%%RUNENAME%%PURPLE% OOOOO [%RUNENUM%] %RED%%NL%
 
 //Gems Chipped
 ItemDisplay[gcv CLVL<20]: chipped amethyst
@@ -366,7 +366,7 @@ ItemDisplay[UNI !ID xap !ETH]: %RED%Peasant Crown
 //Peasant Crown ETH
 ItemDisplay[UNI !ID xap ETH]: %TAN%ETH Peasant Crown
 //Rockstopper
-ItemDisplay[UNI !ID xkp !ETH]: %SOUND-35%%MAP%%NL%%RED%Rockstopper%NL%
+ItemDisplay[UNI !ID xkp !ETH]: %MAP%%NL%%RED%Rockstopper%NL%
 //Rockstopper ETH
 ItemDisplay[UNI !ID xkp ETH]: %RED%ETH Rockstopper
 //Stealskull
@@ -386,41 +386,41 @@ ItemDisplay[UNI !ID xsk !ETH]: %TAN%Blackhorn's Face
 //Blackhorn's Face ETH
 ItemDisplay[UNI !ID xsk ETH]: %TAN%ETH Blackhorn's Face
 //Crown of Thieves
-ItemDisplay[UNI !ID xrn !ETH]: %SOUND-35%%MAP%%NL%%RED%Crown of Thieves%NL%
+ItemDisplay[UNI !ID xrn !ETH]: %MAP%%NL%%RED%Crown of Thieves%NL%
 //Crown of Thieves ETH
 ItemDisplay[UNI !ID xrn ETH]: %MAP%%RED%ETH Crown of Thieves
 //Vampire Gaze
-ItemDisplay[UNI !ID xh9 !ETH]: %SOUND-35%%MAP%%NL%%RED%O %PURPLE%Vampire Gaze %RED%O%NL%
+ItemDisplay[UNI !ID xh9 !ETH]: %MAP%%NL%%RED%O %PURPLE%Vampire Gaze %RED%O%NL%
 //Vampire Gaze ETH
-ItemDisplay[UNI !ID xh9 ETH]: %SOUND-35%%MAP%%NL%%RED%O %PURPLE%ETH Vampire Gaze %RED%O%NL%
+ItemDisplay[UNI !ID xh9 ETH]: %MAP%%NL%%RED%O %PURPLE%ETH Vampire Gaze %RED%O%NL%
 //Shako
-ItemDisplay[UNI !ID uap !ETH]: %SOUND-35%%MAP%%NL%%RED% O %PURPLE%Shako %RED%O %NL%
+ItemDisplay[UNI !ID uap !ETH]: %MAP%%NL%%RED% O %PURPLE%Shako %RED%O %NL%
 //Shako ETH
-ItemDisplay[UNI !ID uap ETH]: %SOUND-35%%MAP%%NL%%RED% O ETH Shako %RED%O %NL%
+ItemDisplay[UNI !ID uap ETH]: %MAP%%NL%%RED% O ETH Shako %RED%O %NL%
 //Steel Shade
-ItemDisplay[UNI !ID ulm !ETH]: %SOUND-35%%MAP%%NL%%RED%O %PURPLE%Steel Shade %RED%O%NL%
+ItemDisplay[UNI !ID ulm !ETH]: %MAP%%NL%%RED%O %PURPLE%Steel Shade %RED%O%NL%
 //Steel Shade ETH
-ItemDisplay[UNI !ID ulm ETH]: %SOUND-35%%MAP%%NL%%RED%O %PURPLE%ETH Steel Shade %RED%O%NL%
+ItemDisplay[UNI !ID ulm ETH]: %MAP%%NL%%RED%O %PURPLE%ETH Steel Shade %RED%O%NL%
 //Veil of Steel or Nightwing's Veil
-ItemDisplay[UNI !ID uhm !ETH]: %SOUND-35%%MAP%%NL%%RED%O Veil of Steel or Nightwing's Veil %RED%O%NL%
+ItemDisplay[UNI !ID uhm !ETH]: %MAP%%NL%%RED%O Veil of Steel or Nightwing's Veil %RED%O%NL%
 //ETH Veil of Steel or ETH Nightwing's Veil
 ItemDisplay[UNI !ID uhm ETH]: %MAP%%RED%ETH Veil of Steel or ETH Nightwing's Veil
 //Andariel's Visage
-ItemDisplay[UNI !ID usk !ETH]: %SOUND-35%%MAP%%NL%%RED%O %PURPLE%Andariel's Visage %RED%O%NL%
+ItemDisplay[UNI !ID usk !ETH]: %MAP%%NL%%RED%O %PURPLE%Andariel's Visage %RED%O%NL%
 //Andariel's Visage ETH
 ItemDisplay[UNI !ID usk ETH]: %MAP%%RED%O ETH Andariel's Visage %RED%O
 //Crown of Ages
-ItemDisplay[UNI !ID urn !ETH]: %SOUND-35%%MAP%%NL%%RED%O Crown of Ages %RED%O%NL%
+ItemDisplay[UNI !ID urn !ETH]: %MAP%%NL%%RED%O Crown of Ages %RED%O%NL%
 //Crown of Ages ETH
-ItemDisplay[UNI !ID urn ETH]: %SOUND-35%%MAP%%NL%%RED%O %PURPLE%ETH Crown of Ages %RED%O%NL%
+ItemDisplay[UNI !ID urn ETH]: %MAP%%NL%%RED%O %PURPLE%ETH Crown of Ages %RED%O%NL%
 //Giant Skull
 ItemDisplay[UNI !ID uh9 !ETH]: %MAP%%RED%Giant Skull
 //Giant Skull ETH
 ItemDisplay[UNI !ID uh9 ETH]: %MAP%%TAN%ETH Giant Skull
 //Griffon's Eye
-ItemDisplay[UNI !ID ci3 !ETH]: %SOUND-35%%MAP%%NL%%RED%O %PURPLE%Griffon's Eye %RED%O%NL%
+ItemDisplay[UNI !ID ci3 !ETH]: %MAP%%NL%%RED%O %PURPLE%Griffon's Eye %RED%O%NL%
 //Griffon's Eye ETH
-ItemDisplay[UNI !ID ci3 ETH]: %SOUND-35%%MAP%%NL%%RED%O ETH Griffon's Eye O%NL%
+ItemDisplay[UNI !ID ci3 ETH]: %MAP%%NL%%RED%O ETH Griffon's Eye O%NL%
 //Kira's Guardian
 ItemDisplay[UNI !ID ci2 !ETH]: %MAP%%RED%Kira's Guardian
 //Kira's Guardian ETH
@@ -493,7 +493,7 @@ ItemDisplay[UNI !ID xui !ETH]: %RED%The Spirit Shroud
 //The Spirit Shroud
 ItemDisplay[UNI !ID xui ETH]: %TAN%ETH The Spirit Shroud
 //Skin of the Vipermagi
-ItemDisplay[UNI !ID xea !ETH]: %SOUND-35%%MAP%%NL%%RED%O %PURPLE%Skin of the Vipermagi %RED%O%NL%
+ItemDisplay[UNI !ID xea !ETH]: %MAP%%NL%%RED%O %PURPLE%Skin of the Vipermagi %RED%O%NL%
 //Skin of the Vipermagi
 ItemDisplay[UNI !ID xea ETH]: %RED%ETH Skin of the Vipermagi
 //Skin of the Flayed One
@@ -513,17 +513,17 @@ ItemDisplay[UNI !ID xng !ETH]: %TAN%Spirit Forge
 //Spirit Forge
 ItemDisplay[UNI !ID xng ETH]: %TAN%ETH Spirit Forge
 //Duriel's Shell
-ItemDisplay[UNI !ID xrs !ETH]: %SOUND-35%%MAP%%NL%%RED%O Duriel's Shell %RED%O%NL%
+ItemDisplay[UNI !ID xrs !ETH]: %MAP%%NL%%RED%O Duriel's Shell %RED%O%NL%
 //Duriel's Shell
-ItemDisplay[UNI !ID xrs ETH]: %SOUND-35%%MAP%%NL%%RED%O ETH Duriel's Shell %RED%O%NL%
+ItemDisplay[UNI !ID xrs ETH]: %MAP%%NL%%RED%O ETH Duriel's Shell %RED%O%NL%
 //Shaftstop 
-ItemDisplay[UNI !ID xhn !ETH]: %SOUND-35%%MAP%%NL%%RED%O %PURPLE%Shaftstop %RED%O%NL%
+ItemDisplay[UNI !ID xhn !ETH]: %MAP%%NL%%RED%O %PURPLE%Shaftstop %RED%O%NL%
 //Shaftstop 
-ItemDisplay[UNI !ID xhn ETH]: %SOUND-35%%MAP%%NL%%RED%O ETH Shaftstop %RED%O%NL%
+ItemDisplay[UNI !ID xhn ETH]: %MAP%%NL%%RED%O ETH Shaftstop %RED%O%NL%
 //Skullder's Ire
-ItemDisplay[UNI !ID xpl !ETH]: %SOUND-35%%MAP%%NL%%RED%O %PURPLE%Skullder's Ire %RED%O%NL%
+ItemDisplay[UNI !ID xpl !ETH]: %MAP%%NL%%RED%O %PURPLE%Skullder's Ire %RED%O%NL%
 //Skullder's Ire
-ItemDisplay[UNI !ID xpl ETH]: %SOUND-35%%MAP%%NL%%RED%O %PURPLE%ETH Skullder's Ire %RED%O%NL%
+ItemDisplay[UNI !ID xpl ETH]: %MAP%%NL%%RED%O %PURPLE%ETH Skullder's Ire %RED%O%NL%
 //Que-Hegan's Wisdom
 ItemDisplay[UNI !ID xtp !ETH]: %MAP%%RED%Que-Hegan's Wisdom
 //Que-Hegan's Wisdom
@@ -533,9 +533,9 @@ ItemDisplay[UNI !ID xld !ETH]: %MAP%%TAN%Toothrow
 //Toothrow
 ItemDisplay[UNI !ID xld ETH]: %TAN%ETH Toothrow
 //Guardian Angel
-ItemDisplay[UNI !ID xlt !ETH]: %SOUND-35%%MAP%%NL%%RED%O %PURPLE%Guardian Angel %RED%O%NL%
+ItemDisplay[UNI !ID xlt !ETH]: %MAP%%NL%%RED%O %PURPLE%Guardian Angel %RED%O%NL%
 //Guardian Angel
-ItemDisplay[UNI !ID xlt ETH]: %SOUND-35%%MAP%%NL%%RED%O ETH Guardian Angel %RED%O%NL%
+ItemDisplay[UNI !ID xlt ETH]: %MAP%%NL%%RED%O ETH Guardian Angel %RED%O%NL%
 //Atma's Wail
 ItemDisplay[UNI !ID xth !ETH]: %TAN%Atma's Wail
 //Atma's Wail
@@ -549,7 +549,7 @@ ItemDisplay[UNI !ID xar !ETH]: %MAP%%TAN%Corpsemourn
 //Corpsemourn
 ItemDisplay[UNI !ID xar ETH]: %TAN%ETH Corpsemourn
 //Ormus' Robes
-ItemDisplay[UNI !ID uui !ETH]: %SOUND-35%%MAP%%NL%%RED%O %PURPLE%Ormus' Robes %RED%O%NL%
+ItemDisplay[UNI !ID uui !ETH]: %MAP%%NL%%RED%O %PURPLE%Ormus' Robes %RED%O%NL%
 //Ormus' Robes
 ItemDisplay[UNI !ID uui ETH]: %RED%ETH Ormus' Robes
 //The Gladiator's Bane
@@ -557,20 +557,20 @@ ItemDisplay[UNI !ID utu !ETH]: %RED%The Gladiator's Bane
 //The Gladiator's Bane
 ItemDisplay[UNI !ID utu ETH]: %RED%ETH The Gladiator's Bane
 //Arkaine's Valor
-ItemDisplay[UNI !ID upl !ETH]: %SOUND-35%%MAP%%NL%%RED%O %PURPLE%Arkaine's Valor %RED%O%NL%
+ItemDisplay[UNI !ID upl !ETH]: %MAP%%NL%%RED%O %PURPLE%Arkaine's Valor %RED%O%NL%
 //Arkaine's Valor
 ItemDisplay[UNI !ID upl ETH]: %RED%ETH Arkaine's Valor
 //Leviathan
-ItemDisplay[UNI !ID uld !ETH]: %SOUND-35%%MAP%%NL%%RED%O Leviathan %RED%O%NL%
+ItemDisplay[UNI !ID uld !ETH]: %MAP%%NL%%RED%O Leviathan %RED%O%NL%
 //Leviathan
-ItemDisplay[UNI !ID uld ETH]: %SOUND-35%%MAP%%NL%%RED%O ETH Leviathan %RED%O%NL%
+ItemDisplay[UNI !ID uld ETH]: %MAP%%NL%%RED%O ETH Leviathan %RED%O%NL%
 //Steel Carapace
 ItemDisplay[UNI !ID uul !ETH]: %TAN%Steel Carapace
 //Steel Carapace
 ItemDisplay[UNI !ID uul ETH]: %RED%ETH Steel Carapace
 //Tyrael's Might or Templar's Might
-ItemDisplay[UNI !ID uar !ETH]: %SOUND-35%%MAP%%NL%%RED%O %PURPLE%Tyrael's or Templar's Might %RED%O%NL%
-ItemDisplay[UNI !ID uar ETH]: %SOUND-35%%MAP%%NL%%RED%O %PURPLE%ETH Tyrael's or Templar's Might %RED%O%NL%
+ItemDisplay[UNI !ID uar !ETH]: %MAP%%NL%%RED%O %PURPLE%Tyrael's or Templar's Might %RED%O%NL%
+ItemDisplay[UNI !ID uar ETH]: %MAP%%NL%%RED%O %PURPLE%ETH Tyrael's or Templar's Might %RED%O%NL%
 
 ////Unique Shields
 //
@@ -631,11 +631,11 @@ ItemDisplay[UNI !ID xow !ETH]: %RED%Gerke's Sanctuary
 //Gerke's Sanctuary
 ItemDisplay[UNI !ID xow ETH]: %TAN%ETH Gerke's Sanctuary
 //Lidless Wall
-ItemDisplay[UNI !ID xsh !ETH]: %SOUND-35%%MAP%%NL%%RED%O Lidless Wall %RED%O%NL%
+ItemDisplay[UNI !ID xsh !ETH]: %MAP%%NL%%RED%O Lidless Wall %RED%O%NL%
 //Lidless Wall
 ItemDisplay[UNI !ID xsh ETH]: %TAN%ETH Lidless Wall
 //Radament's Sphere
-ItemDisplay[UNI !ID xts !ETH]: %SOUND-35%%MAP%%NL%%RED%O Radament's Sphere %RED%O%NL%
+ItemDisplay[UNI !ID xts !ETH]: %MAP%%NL%%RED%O Radament's Sphere %RED%O%NL%
 //Radament's Sphere
 ItemDisplay[UNI !ID xts ETH]: %TAN%ETH Radament's Sphere
 //Blackoak Shield
@@ -643,15 +643,15 @@ ItemDisplay[UNI !ID uml !ETH]: %TAN%Blackoak Shield
 //Blackoak Shield
 ItemDisplay[UNI !ID uml ETH]: %RED%ETH Blackoak Shield
 //Stormshield
-ItemDisplay[UNI !ID uit !ETH]: %SOUND-35%%MAP%%NL%%RED%O %PURPLE%Stormshield %RED%O%NL%
+ItemDisplay[UNI !ID uit !ETH]: %MAP%%NL%%RED%O %PURPLE%Stormshield %RED%O%NL%
 //Stormshield
-ItemDisplay[UNI !ID uit ETH]: %SOUND-35%%MAP%%NL%%RED%O %PURPLE%ETH Stormshield %RED%O%NL%
+ItemDisplay[UNI !ID uit ETH]: %MAP%%NL%%RED%O %PURPLE%ETH Stormshield %RED%O%NL%
 //Spike Thorn
 ItemDisplay[UNI !ID upk !ETH]: %TAN%Spike Thorn
 //Spike Thorn
 ItemDisplay[UNI !ID upk ETH]: %TAN%ETH Spike Thorn
 //Medusa's Gaze
-ItemDisplay[UNI !ID uow !ETH]: %SOUND-35%%MAP%%NL%%RED%O %PURPLE%Medusa's Gaze %RED%O%NL%
+ItemDisplay[UNI !ID uow !ETH]: %MAP%%NL%%RED%O %PURPLE%Medusa's Gaze %RED%O%NL%
 //Medusa's Gaze
 ItemDisplay[UNI !ID uow ETH]: %MAP%%RED%ETH Medusa's Gaze
 //Head Hunter's Glory
@@ -674,11 +674,11 @@ ItemDisplay[UNI !ID vgl !ETH]: %RED%Bloodfist
 //Bloodfist
 ItemDisplay[UNI !ID vgl ETH]: %TAN%ETH Bloodfist
 //Chance Guards
-ItemDisplay[UNI !ID mgl !ETH]: %SOUND-35%%MAP%%NL%%RED%O Chance Guards %RED%O%NL%
+ItemDisplay[UNI !ID mgl !ETH]: %MAP%%NL%%RED%O Chance Guards %RED%O%NL%
 //Chance Guards
 ItemDisplay[UNI !ID mgl ETH]: %TAN%ETH Chance Guards
 //Magefist
-ItemDisplay[UNI !ID tgl !ETH]: %SOUND-35%%MAP%%NL%%RED%O Magefist %RED%O%NL%
+ItemDisplay[UNI !ID tgl !ETH]: %MAP%%NL%%RED%O Magefist %RED%O%NL%
 //Magefist
 ItemDisplay[UNI !ID tgl ETH]: %TAN%ETH Magefist
 //Frostburn
@@ -706,7 +706,7 @@ ItemDisplay[UNI !ID xhg !ETH]: %TAN%Hellmouth
 //Hellmouth
 ItemDisplay[UNI !ID xhg ETH]: %TAN%ETH Hellmouth
 //Dracul's Grasp
-ItemDisplay[UNI !ID uvg !ETH]: %SOUND-35%%MAP%%NL%%RED%O %PURPLE%Dracul's Grasp %RED%O%NL%
+ItemDisplay[UNI !ID uvg !ETH]: %MAP%%NL%%RED%O %PURPLE%Dracul's Grasp %RED%O%NL%
 //Dracul's Grasp
 ItemDisplay[UNI !ID uvg ETH]: %TAN%ETH Dracul's Grasp
 //Soul Drainer
@@ -721,7 +721,7 @@ ItemDisplay[UNI !ID uhg ETH]: %TAN%ETH Steelrend
 ////Unique Boots
 //
 //Hotspur
-ItemDisplay[UNI !ID lbt !ETH]: %SOUND-35%%MAP%%NL%%RED%Hotspur%NL%
+ItemDisplay[UNI !ID lbt !ETH]: %MAP%%NL%%RED%Hotspur%NL%
 //Hotspur
 ItemDisplay[UNI !ID lbt ETH]: %TAN%ETH Hotspur
 //Gorefoot
@@ -745,19 +745,19 @@ ItemDisplay[UNI !ID xlb !ETH]: %RED%Infernostride
 //Infernostride
 ItemDisplay[UNI !ID xlb ETH]: %TAN%ETH Infernostride
 //Waterwalk
-ItemDisplay[UNI !ID xvb !ETH]: %SOUND-35%%MAP%%NL%%RED%O Waterwalk %RED%O%NL%
+ItemDisplay[UNI !ID xvb !ETH]: %MAP%%NL%%RED%O Waterwalk %RED%O%NL%
 //Waterwalk
 ItemDisplay[UNI !ID xvb ETH]: %TAN%ETH Waterwalk
 //Silkweave
-ItemDisplay[UNI !ID xmb !ETH]: %SOUND-35%%MAP%%NL%%RED%O Silkweave %RED%O%NL%
+ItemDisplay[UNI !ID xmb !ETH]: %MAP%%NL%%RED%O Silkweave %RED%O%NL%
 //Silkweave
 ItemDisplay[UNI !ID xmb ETH]: %TAN%ETH Silkweave
 //War Traveler
-ItemDisplay[UNI !ID xtb !ETH]: %SOUND-35%%MAP%%NL%%RED%O %PURPLE%War Traveler %RED%O%NL%
+ItemDisplay[UNI !ID xtb !ETH]: %MAP%%NL%%RED%O %PURPLE%War Traveler %RED%O%NL%
 //War Traveler
 ItemDisplay[UNI !ID xtb ETH]: %RED%ETH War Traveler
 //Gore Rider
-ItemDisplay[UNI !ID xhb !ETH]: %SOUND-35%%MAP%%NL%%RED%O %PURPLE%Gore Rider %RED%O%NL%
+ItemDisplay[UNI !ID xhb !ETH]: %MAP%%NL%%RED%O %PURPLE%Gore Rider %RED%O%NL%
 //Gore Rider
 ItemDisplay[UNI !ID xhb ETH]: %TAN%ETH Gore Rider
 //Sandstorm Trek
@@ -769,14 +769,14 @@ ItemDisplay[UNI !ID umb !ETH]: %MAP%%RED%Marrowwalk
 //Marrowwalk
 ItemDisplay[UNI !ID umb ETH]: %TAN%ETH Marrowwalk
 //Shadow Dancer
-ItemDisplay[UNI !ID uhb !ETH]: %SOUND-35%%MAP%%NL%%RED%O Shadow Dancer %RED%O%NL%
+ItemDisplay[UNI !ID uhb !ETH]: %MAP%%NL%%RED%O Shadow Dancer %RED%O%NL%
 //Shadow Dancer
 ItemDisplay[UNI !ID uhb ETH]: %TAN%ETH Shadow Dancer
 
 ////Unique Belts
 //
 //Lenymo
-ItemDisplay[UNI !ID lbl !ETH]: %SOUND-35%%MAP%%NL%%TAN%Lenymo%NL%
+ItemDisplay[UNI !ID lbl !ETH]: %MAP%%NL%%TAN%Lenymo%NL%
 //Lenymo
 ItemDisplay[UNI !ID lbl ETH]: %TAN%ETH Lenymo
 //Snakecord
@@ -788,7 +788,7 @@ ItemDisplay[UNI !ID mbl !ETH]: %TAN%Nightsmoke
 //Nightsmoke
 ItemDisplay[UNI !ID mbl ETH]: %TAN%ETH Nightsmoke
 //Goldwrap
-ItemDisplay[UNI !ID tbl !ETH]: %SOUND-35%%MAP%%NL%%RED%Goldwrap%NL%
+ItemDisplay[UNI !ID tbl !ETH]: %MAP%%NL%%RED%Goldwrap%NL%
 //Goldwrap
 ItemDisplay[UNI !ID tbl ETH]: %TAN%ETH Goldwrap
 //Bladebuckle
@@ -796,11 +796,11 @@ ItemDisplay[UNI !ID hbl !ETH]: %TAN%Bladebuckle
 //Bladebuckle
 ItemDisplay[UNI !ID hbl ETH]: %TAN%ETH Bladebuckle
 //String of Ears
-ItemDisplay[UNI !ID zlb !ETH]: %SOUND-35%%MAP%%NL%%RED%O String of Ears %RED%O%NL%
+ItemDisplay[UNI !ID zlb !ETH]: %MAP%%NL%%RED%O String of Ears %RED%O%NL%
 //String of Ears
 ItemDisplay[UNI !ID zlb ETH]: %TAN%ETH String of Ears
 //Razortail
-ItemDisplay[UNI !ID zvb !ETH]: %SOUND-35%%MAP%%NL%%RED%O Razortail %RED%O%NL%
+ItemDisplay[UNI !ID zvb !ETH]: %MAP%%NL%%RED%O Razortail %RED%O%NL%
 //Razortail
 ItemDisplay[UNI !ID zvb ETH]: %TAN%ETH Razortail
 //Gloom's Trap
@@ -808,23 +808,23 @@ ItemDisplay[UNI !ID zmb !ETH]: %MAP%%RED%Gloom's Trap
 //Gloom's Trap
 ItemDisplay[UNI !ID zmb ETH]: %TAN%ETH Gloom's Trap
 //Snowclash
-ItemDisplay[UNI !ID ztb !ETH]: %SOUND-35%%MAP%%NL%%RED%O Snowclash %RED%O%NL%
+ItemDisplay[UNI !ID ztb !ETH]: %MAP%%NL%%RED%O Snowclash %RED%O%NL%
 //Snowclash
 ItemDisplay[UNI !ID ztb ETH]: %TAN%ETH Snowclash
 //Thundergod's Vigor
-ItemDisplay[UNI !ID zhb !ETH]: %SOUND-35%%MAP%%NL%%RED%O %PURPLE%Thundergod's Vigor %RED%O%NL%
+ItemDisplay[UNI !ID zhb !ETH]: %MAP%%NL%%RED%O %PURPLE%Thundergod's Vigor %RED%O%NL%
 //Thundergod's Vigor
 ItemDisplay[UNI !ID zhb ETH]: %RED%ETH Thundergod's Vigor
 //Arachnid Mesh
-ItemDisplay[UNI !ID ulc !ETH]: %SOUND-35%%MAP%%NL%%RED%O %PURPLE%Arachnid Mesh %RED%O%NL%
+ItemDisplay[UNI !ID ulc !ETH]: %MAP%%NL%%RED%O %PURPLE%Arachnid Mesh %RED%O%NL%
 //Arachnid Mesh
-ItemDisplay[UNI !ID ulc ETH]: %SOUND-35%%MAP%%NL%%RED%ETH Arachnid Mesh%NL%
+ItemDisplay[UNI !ID ulc ETH]: %MAP%%NL%%RED%ETH Arachnid Mesh%NL%
 //Nosferatu's Coil
-ItemDisplay[UNI !ID uvc !ETH]: %SOUND-35%%MAP%%NL%%RED%O Nosferatu's Coil %RED%O%NL%
+ItemDisplay[UNI !ID uvc !ETH]: %MAP%%NL%%RED%O Nosferatu's Coil %RED%O%NL%
 //Nosferatu's Coil
 ItemDisplay[UNI !ID uvc ETH]: %TAN%ETH Nosferatu's Coil
 //Verdungo's Hearty Cord
-ItemDisplay[UNI !ID umc !ETH]: %SOUND-35%%MAP%%NL%%RED%O %PURPLE%Verdungo's Hearty Cord %RED%O%NL%
+ItemDisplay[UNI !ID umc !ETH]: %MAP%%NL%%RED%O %PURPLE%Verdungo's Hearty Cord %RED%O%NL%
 //Verdungo's Hearty Cord
 ItemDisplay[UNI !ID umc ETH]: %RED%ETH Verdungo's Hearty Cord
 
@@ -925,7 +925,7 @@ ItemDisplay[UNI !ID 7mp !ETH]: %TAN%Cranebeak
 //Cranebeak
 ItemDisplay[UNI !ID 7mp ETH]: %TAN%ETH Cranebeak
 //Death Cleaver
-ItemDisplay[UNI !ID 7wa !ETH]: %SOUND-35%%MAP%%NL%%RED%O Death Cleaver %RED%O%NL%
+ItemDisplay[UNI !ID 7wa !ETH]: %MAP%%NL%%RED%O Death Cleaver %RED%O%NL%
 //Death Cleaver
 ItemDisplay[UNI !ID 7wa ETH]: %MAP%%RED%ETH Death Cleaver
 //Ethereal Edge (always Eth)
@@ -976,13 +976,13 @@ ItemDisplay[UNI !ID 8l8]: %TAN%Cliffkiller
 //Magewrath
 ItemDisplay[UNI !ID 8sw]: %MAP%%RED%Magewrath
 //Goldstrike Arch
-ItemDisplay[UNI !ID 8lw]: %SOUND-35%%MAP%%NL%%RED%O Goldstrike Arch %RED%O%NL%
+ItemDisplay[UNI !ID 8lw]: %MAP%%NL%%RED%O Goldstrike Arch %RED%O%NL%
 //Eaglehorn
 ItemDisplay[UNI !ID 6l7]: %MAP%%RED%Eaglehorn
 //Widowmaker
 ItemDisplay[UNI !ID 6sw]: %MAP%%RED%Widowmaker
 //Windforce
-ItemDisplay[UNI !ID 6lw]: %SOUND-35%%MAP%%NL%%RED%O %PURPLE%Windforce %RED%O%NL%
+ItemDisplay[UNI !ID 6lw]: %MAP%%NL%%RED%O %PURPLE%Windforce %RED%O%NL%
 
 ////Unique Crossbows
 //
@@ -993,7 +993,7 @@ ItemDisplay[UNI !ID mxb]: %TAN%Ichorsting
 //Hellcast
 ItemDisplay[UNI !ID hxb]: %TAN%Hellcast
 //Doomslinger
-ItemDisplay[UNI !ID rxb]: %SOUND-35%%MAP%%NL%%RED%O Doomslinger %RED%O%NL%
+ItemDisplay[UNI !ID rxb]: %MAP%%NL%%RED%O Doomslinger %RED%O%NL%
 //Langer Briser
 ItemDisplay[UNI !ID 8lx]: %TAN%Langer Briser
 //Pus Spitter
@@ -1010,9 +1010,9 @@ ItemDisplay[UNI !ID 6rx]: %TAN%Gut Siphon
 ////Unique Daggers
 //
 //Gull
-ItemDisplay[UNI !ID dgr !ETH]: %SOUND-35%%MAP%%NL%%RED%O Gull %RED%O%NL%
+ItemDisplay[UNI !ID dgr !ETH]: %MAP%%NL%%RED%O Gull %RED%O%NL%
 //Gull
-ItemDisplay[UNI !ID dgr ETH]: %SOUND-35%%MAP%%NL%%RED%ETH Gull%NL%
+ItemDisplay[UNI !ID dgr ETH]: %MAP%%NL%%RED%ETH Gull%NL%
 //The Diggler
 ItemDisplay[UNI !ID dir !ETH]: %TAN%The Diggler
 //The Diggler
@@ -1042,13 +1042,13 @@ ItemDisplay[UNI !ID 9bl !ETH]: %TAN%Stormspike
 //Stormspike
 ItemDisplay[UNI !ID 9bl ETH]: %TAN%ETH Stormspike
 //Wizardspike
-ItemDisplay[UNI !ID 7dg !ETH]: %SOUND-35%%MAP%%NL%%RED%O Wizardspike %RED%O%NL%
+ItemDisplay[UNI !ID 7dg !ETH]: %MAP%%NL%%RED%O Wizardspike %RED%O%NL%
 //Wizardspike
-ItemDisplay[UNI !ID 7dg ETH]: %SOUND-35%%MAP%%NL%%RED%O ETH Wizardspike %RED%O%NL%
+ItemDisplay[UNI !ID 7dg ETH]: %MAP%%NL%%RED%O ETH Wizardspike %RED%O%NL%
 //Fleshripper
-ItemDisplay[UNI !ID 7kr !ETH]: %SOUND-35%%MAP%%NL%%RED%O Fleshripper %RED%O%NL%
+ItemDisplay[UNI !ID 7kr !ETH]: %MAP%%NL%%RED%O Fleshripper %RED%O%NL%
 //Fleshripper
-ItemDisplay[UNI !ID 7kr ETH]: %SOUND-35%%MAP%%NL%%RED%ETH Fleshripper%NL%
+ItemDisplay[UNI !ID 7kr ETH]: %MAP%%NL%%RED%ETH Fleshripper%NL%
 //ETH Ghostflame (always eth)
 ItemDisplay[UNI !ID 7bl ETH]: %MAP%%RED%ETH Ghostflame
 
@@ -1131,21 +1131,21 @@ ItemDisplay[UNI !ID 7mt !ETH]: %TAN%Baranar's Star
 //Baranar's Star
 ItemDisplay[UNI !ID 7mt ETH]: %TAN%ETH Baranar's Star
 //Horizon's Tornado or Stormlash
-ItemDisplay[UNI !ID 7fl !ETH]: %SOUND-35%%MAP%%NL%%RED%O Horizon's Tornado or Stormlash %RED%O%NL%
+ItemDisplay[UNI !ID 7fl !ETH]: %MAP%%NL%%RED%O Horizon's Tornado or Stormlash %RED%O%NL%
 //Horizon's Tornado or Stormlash
-ItemDisplay[UNI !ID 7fl ETH]: %SOUND-35%%MAP%%NL%%RED%ETH Horizon's Tornado or ETH Stormlash%NL%
+ItemDisplay[UNI !ID 7fl ETH]: %MAP%%NL%%RED%ETH Horizon's Tornado or ETH Stormlash%NL%
 //Stone Crusher or Schaefer's Hammer
-ItemDisplay[UNI !ID 7wh !ETH]: %SOUND-35%%MAP%%NL%%RED%O Stone Crusher or Schaefer's Hammer %RED%O%NL%
+ItemDisplay[UNI !ID 7wh !ETH]: %MAP%%NL%%RED%O Stone Crusher or Schaefer's Hammer %RED%O%NL%
 //Stone Crusher or Schaefer's Hammer
-ItemDisplay[UNI !ID 7wh ETH]: %SOUND-35%%MAP%%NL%%RED%ETH Stone Crusher or ETH Schaefer's Hammer%NL%
+ItemDisplay[UNI !ID 7wh ETH]: %MAP%%NL%%RED%ETH Stone Crusher or ETH Schaefer's Hammer%NL%
 //Windhammer
 ItemDisplay[UNI !ID 7m7 !ETH]: %MAP%%TAN%Windhammer   //Druid Meme Weapon
 //Windhammer
 ItemDisplay[UNI !ID 7m7 ETH]: %TAN%ETH Windhammer
 //Earth Shifter or The Cranium Basher
-ItemDisplay[UNI !ID 7gm !ETH]: %SOUND-35%%MAP%%NL%%RED%O Earth Shifter or The Cranium Basher %RED%O%NL%
+ItemDisplay[UNI !ID 7gm !ETH]: %MAP%%NL%%RED%O Earth Shifter or The Cranium Basher %RED%O%NL%
 //Earth Shifter or The Cranium Basher
-ItemDisplay[UNI !ID 7gm ETH]: %SOUND-35%%MAP%%NL%%RED%O ETH Earth Shifter or ETH The Cranium Basher %RED%O%NL%
+ItemDisplay[UNI !ID 7gm ETH]: %MAP%%NL%%RED%O ETH Earth Shifter or ETH The Cranium Basher %RED%O%NL%
 
 ////Unique Polearms
 //
@@ -1200,15 +1200,15 @@ ItemDisplay[UNI !ID 9wc ETH]: %TAN%ETH Grim's Burning Dead
 //Bonehew
 ItemDisplay[UNI !ID 7o7 !ETH]: %MAP%%RED%Bonehew
 //Bonehew
-ItemDisplay[UNI !ID 7o7 ETH]: %SOUND-35%%MAP%%NL%%RED%O ETH Bonehew %RED%O%NL%
+ItemDisplay[UNI !ID 7o7 ETH]: %MAP%%NL%%RED%O ETH Bonehew %RED%O%NL%
 //Reaper's Toll
-ItemDisplay[UNI !ID 7s8 !ETH]: %SOUND-35%%MAP%%NL%%RED%O Reaper's Toll %RED%O%NL%
+ItemDisplay[UNI !ID 7s8 !ETH]: %MAP%%NL%%RED%O Reaper's Toll %RED%O%NL%
 //ETH Reaper's Toll
-ItemDisplay[UNI !ID 7s8 ETH]: %SOUND-35%%MAP%%NL%%RED%O %PURPLE%ETH Reaper's Toll %RED%O%NL%
+ItemDisplay[UNI !ID 7s8 ETH]: %MAP%%NL%%RED%O %PURPLE%ETH Reaper's Toll %RED%O%NL%
 //Tomb Reaver
-ItemDisplay[UNI !ID 7pa !ETH]: %SOUND-35%%MAP%%NL%%RED%O Tomb Reaver %RED%O%NL%
+ItemDisplay[UNI !ID 7pa !ETH]: %MAP%%NL%%RED%O Tomb Reaver %RED%O%NL%
 //Tomb Reaver
-ItemDisplay[UNI !ID 7pa ETH]: %SOUND-35%%MAP%%NL%%RED%O ETH Tomb Reaver %RED%O%NL%
+ItemDisplay[UNI !ID 7pa ETH]: %MAP%%NL%%RED%O ETH Tomb Reaver %RED%O%NL%
 //Stormspire
 ItemDisplay[UNI !ID 7wc !ETH]: %MAP%%RED%Stormspire
 //ETH Stormspire
@@ -1237,15 +1237,15 @@ ItemDisplay[UNI !ID 9qs !ETH]: %TAN%The Fetid Sprinkler
 //The Fetid Sprinkler
 ItemDisplay[UNI !ID 9qs ETH]: %TAN%ETH The Fetid Sprinkler
 //Hand of Blessed Light (Holy bolt/FoH scepter)
-ItemDisplay[UNI !ID 9ws !ETH]: %SOUND-35%%MAP%%NL%%RED%Hand of Blessed Light%NL%
+ItemDisplay[UNI !ID 9ws !ETH]: %MAP%%NL%%RED%Hand of Blessed Light%NL%
 //Hand of Blessed Light (Holy bolt/FoH scepter)
 ItemDisplay[UNI !ID 9ws ETH]: %TAN%ETH Hand of Blessed Light
 //Heaven's Light or the Redeemer
-ItemDisplay[UNI !ID 7sc !ETH]: %SOUND-35%%MAP%%NL%%RED%O Heaven's Light or the Redeemer %RED%O%NL%
+ItemDisplay[UNI !ID 7sc !ETH]: %MAP%%NL%%RED%O Heaven's Light or the Redeemer %RED%O%NL%
 //Heaven's Light or the Redeemer
-ItemDisplay[UNI !ID 7sc ETH]: %SOUND-35%%MAP%%NL%%RED%ETH Heaven's Light or ETH the Redeemer%NL%
+ItemDisplay[UNI !ID 7sc ETH]: %MAP%%NL%%RED%ETH Heaven's Light or ETH the Redeemer%NL%
 //Astreon's Iron Ward
-ItemDisplay[UNI !ID 7ws !ETH]: %SOUND-35%%MAP%%NL%%RED%O Astreon's Iron Ward %RED%O%NL%
+ItemDisplay[UNI !ID 7ws !ETH]: %MAP%%NL%%RED%O Astreon's Iron Ward %RED%O%NL%
 //Astreon's Iron Ward
 ItemDisplay[UNI !ID 7ws ETH]: %MAP%%RED%ETH Astreon's Iron Ward
 
@@ -1278,15 +1278,15 @@ ItemDisplay[UNI !ID 9sr ETH]: %TAN%ETH The Impaler
 //Kelpie Snare
 ItemDisplay[UNI !ID 9tr !ETH]: %MAP%%RED%Kelpie Snare
 //Kelpie Snare
-ItemDisplay[UNI !ID 9tr ETH]: %SOUND-35%%MAP%%NL%%RED%O ETH Kelpie Snare %RED%O%NL%
+ItemDisplay[UNI !ID 9tr ETH]: %MAP%%NL%%RED%O ETH Kelpie Snare %RED%O%NL%
 //Soulfeast Time
 ItemDisplay[UNI !ID 9br !ETH]: %TAN%Soulfeast Time
 //Soulfeast Time
 ItemDisplay[UNI !ID 9br ETH]: %TAN%ETH Soulfeast Time
 //Hone Sundan
-ItemDisplay[UNI !ID 9st !ETH]: %SOUND-35%%MAP%%NL%%RED%O Hone Sundan %RED%O%NL%
+ItemDisplay[UNI !ID 9st !ETH]: %MAP%%NL%%RED%O Hone Sundan %RED%O%NL%
 //ETH Hone Sundan
-ItemDisplay[UNI !ID 9st ETH]: %SOUND-35%%MAP%%NL%%RED%O %PURPLE%ETH Hone Sundan %RED%O%NL%
+ItemDisplay[UNI !ID 9st ETH]: %MAP%%NL%%RED%O %PURPLE%ETH Hone Sundan %RED%O%NL%
 //Spire of Honor
 ItemDisplay[UNI !ID 9p9 !ETH]: %TAN%Spire of Honor
 //Spire of Honor
@@ -1296,13 +1296,13 @@ ItemDisplay[UNI !ID 7sr !ETH]: %MAP%%RED%Arioc's Needle
 //Arioc's Needle
 ItemDisplay[UNI !ID 7sr ETH]: %TAN%ETH Arioc's Needle
 //Viperfork
-ItemDisplay[UNI !ID 7br !ETH]: %SOUND-35%%MAP%%NL%%RED%O Viperfork %RED%O%NL%
+ItemDisplay[UNI !ID 7br !ETH]: %MAP%%NL%%RED%O Viperfork %RED%O%NL%
 //Viperfork
-ItemDisplay[UNI !ID 7br ETH]: %SOUND-35%%MAP%%NL%%RED%O ETH Viperfork %RED%O%NL%
+ItemDisplay[UNI !ID 7br ETH]: %MAP%%NL%%RED%O ETH Viperfork %RED%O%NL%
 //Steel Pillar
-ItemDisplay[UNI !ID 7p7 !ETH]: %SOUND-35%%MAP%%NL%%RED%O Steel Pillar %RED%O%NL%
+ItemDisplay[UNI !ID 7p7 !ETH]: %MAP%%NL%%RED%O Steel Pillar %RED%O%NL%
 //Steel Pillar
-ItemDisplay[UNI !ID 7p7 ETH]: %SOUND-35%%MAP%%NL%%RED%O ETH Steel Pillar %RED%O%NL%
+ItemDisplay[UNI !ID 7p7 ETH]: %MAP%%NL%%RED%O ETH Steel Pillar %RED%O%NL%
 
 ////Unique Staves
 //
@@ -1331,9 +1331,9 @@ ItemDisplay[UNI !ID 8ss !ETH]: %TAN%Razorswitch
 //Razorswitch
 ItemDisplay[UNI !ID 8ss ETH]: %TAN%ETH Razorswitch
 //Ribcracker
-ItemDisplay[UNI !ID 8ls !ETH]: %SOUND-35%%MAP%%NL%%RED%Ribcracker%NL%
+ItemDisplay[UNI !ID 8ls !ETH]: %MAP%%NL%%RED%Ribcracker%NL%
 //Ribcracker
-ItemDisplay[UNI !ID 8ls ETH]: %SOUND-35%%MAP%%NL%%RED%O ETH Ribcracker %RED%O%NL%
+ItemDisplay[UNI !ID 8ls ETH]: %MAP%%NL%%RED%O ETH Ribcracker %RED%O%NL%
 //Chromatic Ire
 ItemDisplay[UNI !ID 8cs !ETH]: %TAN%Chromatic Ire
 //Chromatic Ire
@@ -1347,9 +1347,9 @@ ItemDisplay[UNI !ID 8ws !ETH]: %TAN%Skull Collector
 //Skull Collector
 ItemDisplay[UNI !ID 8ws ETH]: %TAN%ETH Skull Collector
 //Ondal's Wisdom
-ItemDisplay[UNI !ID 6cs !ETH]: %SOUND-35%%MAP%%NL%%RED%O %PURPLE%Ondal's Wisdom %RED%O%NL%
+ItemDisplay[UNI !ID 6cs !ETH]: %MAP%%NL%%RED%O %PURPLE%Ondal's Wisdom %RED%O%NL%
 //Ondal's Wisdom
-ItemDisplay[UNI !ID 6cs ETH]: %SOUND-35%%MAP%%NL%%RED%ETH Ondal's Wisdom%NL%
+ItemDisplay[UNI !ID 6cs ETH]: %MAP%%NL%%RED%ETH Ondal's Wisdom%NL%
 //Mang Song's Lesson
 ItemDisplay[UNI !ID 6ws !ETH]: %TAN%Mang Song's Lesson
 //Mang Song's Lesson
@@ -1422,9 +1422,9 @@ ItemDisplay[UNI !ID 9sb !ETH]: %MAP%%RED%Hexfire
 //Hexfire (+3 to fire skills)(+1 Hydra)
 ItemDisplay[UNI !ID 9sb ETH]: %MAP%%TAN%ETH Hexfire
 //Blade of Ali Baba (the MF sword)
-ItemDisplay[UNI !ID 9fc !ETH]: %SOUND-35%%MAP%%NL%%RED%O Blade of Ali Baba %RED%O%NL%
+ItemDisplay[UNI !ID 9fc !ETH]: %MAP%%NL%%RED%O Blade of Ali Baba %RED%O%NL%
 //Blade of Ali Baba (the MF sword)
-ItemDisplay[UNI !ID 9fc ETH]: %SOUND-35%%MAP%%NL%%RED%ETH Blade of Ali Baba%NL%
+ItemDisplay[UNI !ID 9fc ETH]: %MAP%%NL%%RED%ETH Blade of Ali Baba%NL%
 //Ginther's Rift
 ItemDisplay[UNI !ID 9cr !ETH]: %MAP%%TAN%Ginther's Rift
 //ETH Ginther's Rift
@@ -1458,9 +1458,9 @@ ItemDisplay[UNI !ID 9b9 !ETH]: %TAN%Cloudcrack
 //Cloudcrack
 ItemDisplay[UNI !ID 9b9 ETH]: %TAN%ETH Cloudcrack
 //Todesfaelle Flamme (The RF Sword)
-ItemDisplay[UNI !ID 9fb !ETH]: %SOUND-35%%MAP%%NL%%RED%O Todesfaelle Flamme %RED%O%NL%
+ItemDisplay[UNI !ID 9fb !ETH]: %MAP%%NL%%RED%O Todesfaelle Flamme %RED%O%NL%
 //Todesfaelle Flamme (The RF Sword)
-ItemDisplay[UNI !ID 9fb ETH]: %SOUND-35%%MAP%%NL%%RED%ETH Todesfaelle Flamme%NL%
+ItemDisplay[UNI !ID 9fb ETH]: %MAP%%NL%%RED%ETH Todesfaelle Flamme%NL%
 //Swordguard
 ItemDisplay[UNI !ID 9gd !ETH]: %TAN%Swordguard
 //Swordguard
@@ -1474,7 +1474,7 @@ ItemDisplay[UNI !ID 7sb !ETH]: %TAN%Bloodmoon
 //Bloodmoon (lvl 15 blood golem charges)
 ItemDisplay[UNI !ID 7sb ETH]: %TAN%ETH Bloodmoon
 //Lightsabre or Azurewrath
-ItemDisplay[UNI !ID 7cr]: %SOUND-35%%MAP%%NL%%RED%O %PURPLE%Lightsabre or Azurewrath %RED%O%NL%
+ItemDisplay[UNI !ID 7cr]: %MAP%%NL%%RED%O %PURPLE%Lightsabre or Azurewrath %RED%O%NL%
 //Frostwind (arctic blast +14 can do fun builds)
 ItemDisplay[UNI !ID 7ls !ETH]: %MAP%%RED%Frostwind
 //Frostwind (arctic blast +14 can do fun builds)
@@ -1484,13 +1484,13 @@ ItemDisplay[UNI !ID 7gs !ETH]: %MAP%%RED%Flamebellow
 //Flamebellow (flame dash +18)
 ItemDisplay[UNI !ID 7gs ETH]: %TAN%ETH Flamebellow
 //Doombringer
-ItemDisplay[UNI !ID 7b7 !ETH]: %SOUND-35%%MAP%%NL%%RED%O Doombringer %RED%O%NL%
+ItemDisplay[UNI !ID 7b7 !ETH]: %MAP%%NL%%RED%O Doombringer %RED%O%NL%
 //ETH Doombringer
-ItemDisplay[UNI !ID 7b7 ETH]: %SOUND-35%%MAP%%NL%%RED%O %PURPLE%ETH Doombringer %RED%O%NL%
+ItemDisplay[UNI !ID 7b7 ETH]: %MAP%%NL%%RED%O %PURPLE%ETH Doombringer %RED%O%NL%
 //The Grandfather
-ItemDisplay[UNI !ID 7gd !ETH]: %SOUND-35%%MAP%%NL%%RED%O The Grandfather %RED%O%NL%
+ItemDisplay[UNI !ID 7gd !ETH]: %MAP%%NL%%RED%O The Grandfather %RED%O%NL%
 //ETH The Grandfather
-ItemDisplay[UNI !ID 7gd ETH]: %SOUND-35%%MAP%%NL%%RED%O ETH The Grandfather %RED%O%NL%
+ItemDisplay[UNI !ID 7gd ETH]: %MAP%%NL%%RED%O ETH The Grandfather %RED%O%NL%
 
 ////Unique Wands
 //
@@ -1527,13 +1527,13 @@ ItemDisplay[UNI !ID 9gw !ETH]: %TAN%Blackhand Key
 //Blackhand Key (lvl 13 Grim ward charges (reduces phys resistance on monsters))
 ItemDisplay[UNI !ID 9gw ETH]: %TAN%ETH Blackhand Key
 //Boneshade (can get +7 Teeth +7 Bone Armor)
-ItemDisplay[UNI !ID 7bw !ETH]: %SOUND-35%%MAP%%NL%%RED%Boneshade%NL%
+ItemDisplay[UNI !ID 7bw !ETH]: %MAP%%NL%%RED%Boneshade%NL%
 //Boneshade (can get +7 Teeth +7 Bone Armor)
-ItemDisplay[UNI !ID 7bw ETH]: %SOUND-35%%MAP%%NL%%RED%ETH Boneshade%NL%
+ItemDisplay[UNI !ID 7bw ETH]: %MAP%%NL%%RED%ETH Boneshade%NL%
 //Death's Web (-40 to -50 to enemy poison res)
-ItemDisplay[UNI !ID 7gw !ETH]: %SOUND-35%%MAP%%NL%%RED%O %PURPLE%Death's Web %RED%O%NL%
+ItemDisplay[UNI !ID 7gw !ETH]: %MAP%%NL%%RED%O %PURPLE%Death's Web %RED%O%NL%
 //Death's Web (-40 to -50 to enemy poison res)
-ItemDisplay[UNI !ID 7gw ETH]: %SOUND-35%%MAP%%NL%%RED%O ETH Death's Web %RED%O%NL%
+ItemDisplay[UNI !ID 7gw ETH]: %MAP%%NL%%RED%O ETH Death's Web %RED%O%NL%
 
 ////Unique Throwing Weapons
 //
@@ -1546,30 +1546,30 @@ ItemDisplay[UNI !ID 9ta !ETH]: %TAN%The Scalper
 //ETH The Scalper
 ItemDisplay[UNI !ID 9ta ETH]: %MAP%%NL%%RED%O ETH The Scalper %RED%O%NL%
 //Warshrike
-ItemDisplay[UNI !ID 7bk !ETH]: %SOUND-35%%MAP%%NL%%RED%O Warshrike %RED%O%NL%
+ItemDisplay[UNI !ID 7bk !ETH]: %MAP%%NL%%RED%O Warshrike %RED%O%NL%
 //ETH Warshrike
-ItemDisplay[UNI !ID 7bk ETH]: %SOUND-35%%MAP%%NL%%RED%O %PURPLE%ETH Warshrike %RED%O%NL%
+ItemDisplay[UNI !ID 7bk ETH]: %MAP%%NL%%RED%O %PURPLE%ETH Warshrike %RED%O%NL%
 //Gimmershred
 ItemDisplay[UNI !ID 7ta !ETH]: %MAP%%RED%Gimmershred
 //ETH Gimmershred
 ItemDisplay[UNI !ID 7ta ETH]: %TAN%ETH Gimmershred
 //Lacerator
-ItemDisplay[UNI !ID 7b8 !ETH]: %SOUND-35%%MAP%%NL%%RED%O Lacerator %RED%O%NL%
+ItemDisplay[UNI !ID 7b8 !ETH]: %MAP%%NL%%RED%O Lacerator %RED%O%NL%
 //ETH Lacerator
-ItemDisplay[UNI !ID 7b8 ETH]: %SOUND-35%%MAP%%NL%%RED%O %PURPLE%ETH Lacerator %RED%O%NL%
+ItemDisplay[UNI !ID 7b8 ETH]: %MAP%%NL%%RED%O %PURPLE%ETH Lacerator %RED%O%NL%
 
 ////Unique Javelins
 //
 //Demon's Arch
 ItemDisplay[UNI !ID 7s7 !ETH]: %TAN%Demon's Arch
 //ETH Demon's Arch
-ItemDisplay[UNI !ID 7s7 ETH]: %SOUND-35%%MAP%%NL%%RED%O ETH Demon's Arch %RED%O%NL%
+ItemDisplay[UNI !ID 7s7 ETH]: %MAP%%NL%%RED%O ETH Demon's Arch %RED%O%NL%
 //ETH Wraith Flight (always ETH)
 ItemDisplay[UNI !ID 7gl ETH]: %MAP%%RED%ETH Wraith Flight
 //Gargoyle's Bite
-ItemDisplay[UNI !ID 7ts !ETH]: %SOUND-35%%MAP%%NL%%RED%Gargoyle's Bite%NL%
+ItemDisplay[UNI !ID 7ts !ETH]: %MAP%%NL%%RED%Gargoyle's Bite%NL%
 //ETH Gargoyle's Bite
-ItemDisplay[UNI !ID 7ts ETH]: %SOUND-35%%MAP%%NL%%RED%ETH Gargoyle's Bite%NL%
+ItemDisplay[UNI !ID 7ts ETH]: %MAP%%NL%%RED%ETH Gargoyle's Bite%NL%
 
 ////Unique Amazon only items
 //
@@ -1582,13 +1582,13 @@ ItemDisplay[UNI !ID am9 !ETH]: %MAP%%RED%Lycander's Flank
 //Lycander's Flank
 ItemDisplay[UNI !ID am9 ETH]: %MAP%%RED%ETH Lycander's Flank
 //Lycander's Aim
-ItemDisplay[UNI !ID am7]: %SOUND-35%%MAP%%NL%%RED%Lycander's Aim%NL%
+ItemDisplay[UNI !ID am7]: %MAP%%NL%%RED%Lycander's Aim%NL%
 //Titan's Revenge
-ItemDisplay[UNI !ID ama !ETH]: %SOUND-35%%MAP%%NL%%RED%O Titan's Revenge %RED%O%NL%
+ItemDisplay[UNI !ID ama !ETH]: %MAP%%NL%%RED%O Titan's Revenge %RED%O%NL%
 //Titan's Revenge
-ItemDisplay[UNI !ID ama ETH]: %SOUND-35%%MAP%%NL%%RED%O ETH Titan's Revenge %RED%O%NL%
+ItemDisplay[UNI !ID ama ETH]: %MAP%%NL%%RED%O ETH Titan's Revenge %RED%O%NL%
 //Thunderstroke
-ItemDisplay[UNI !ID amf !ETH]: %SOUND-35%%MAP%%NL%%RED%O Thunderstroke %RED%O%NL%
+ItemDisplay[UNI !ID amf !ETH]: %MAP%%NL%%RED%O Thunderstroke %RED%O%NL%
 //Thunderstroke
 ItemDisplay[UNI !ID amf ETH]: %TAN%ETH Thunderstroke
 //Blood Raven's Charge (got lvl 5 revive (30charges))
@@ -1599,7 +1599,7 @@ ItemDisplay[UNI !ID amb]: %TAN%Blood Raven's Charge
 //ETH Shadow Killer (always ETH)
 ItemDisplay[UNI !ID 7cs ETH]: %MAP%%RED%ETH Shadow Killer
 //Bartuc's Cut-Throat
-ItemDisplay[UNI !ID 9tw !ETH]: %SOUND-35%%MAP%%NL%%RED%O Bartuc's Cut-Throat %RED%O%NL%
+ItemDisplay[UNI !ID 9tw !ETH]: %MAP%%NL%%RED%O Bartuc's Cut-Throat %RED%O%NL%
 //Bartuc's Cut-Throat
 ItemDisplay[UNI !ID 9tw ETH]: %RED%ETH Bartuc's Cut-Throat
 //Jade Talon
@@ -1614,7 +1614,7 @@ ItemDisplay[UNI !ID 7lw ETH]: %TAN%ETH Firelizard's Talons
 ////Unique Necromancer only items
 //
 //Homunculus
-ItemDisplay[UNI !ID nea !ETH]: %SOUND-35%%MAP%%NL%%RED%O %PURPLE%Homunculus %RED%O%NL%
+ItemDisplay[UNI !ID nea !ETH]: %MAP%%NL%%RED%O %PURPLE%Homunculus %RED%O%NL%
 //Homunculus
 ItemDisplay[UNI !ID nea ETH]: %MAP%%RED%ETH Homunculus
 //Darkforce Spawn
@@ -1622,18 +1622,18 @@ ItemDisplay[UNI !ID nef !ETH]: %MAP%%RED%Darkforce Spawn
 //Darkforce Spawn
 ItemDisplay[UNI !ID nef ETH]: %TAN%ETH Darkforce Spawn
 //Boneflame
-ItemDisplay[UNI !ID nee !ETH]: %SOUND-35%%MAP%%NL%%RED%O Boneflame %RED%O%NL%
+ItemDisplay[UNI !ID nee !ETH]: %MAP%%NL%%RED%O Boneflame %RED%O%NL%
 //Boneflame
 ItemDisplay[UNI !ID nee ETH]: %TAN%ETH Boneflame
 
 ////Unique Barbarian only items
 //
 //Arreat's Face
-ItemDisplay[UNI !ID baa !ETH]: %SOUND-35%%MAP%%NL%%RED%O %PURPLE%Arreat's Face %RED%O%NL%
+ItemDisplay[UNI !ID baa !ETH]: %MAP%%NL%%RED%O %PURPLE%Arreat's Face %RED%O%NL%
 //Arreat's Face
 ItemDisplay[UNI !ID baa ETH]: %MAP%%RED%ETH Arreat's Face
 //Wolfhowl (for bear/werewolf barb)
-ItemDisplay[UNI !ID bac !ETH]: %SOUND-35%%MAP%%NL%%RED%O Wolfhowl %RED%O%NL%
+ItemDisplay[UNI !ID bac !ETH]: %MAP%%NL%%RED%O Wolfhowl %RED%O%NL%
 //Wolfhowl (for bear/werewolf barb)
 ItemDisplay[UNI !ID bac ETH]: %RED%ETH Wolfhowl
 //Demonhorn's Edge
@@ -1648,49 +1648,49 @@ ItemDisplay[UNI !ID bae ETH]: %TAN%ETH Halaberd's Reign
 ////Unique Sorceress only items
 //
 //The Oculus
-ItemDisplay[UNI !ID oba !ETH]: %SOUND-35%%MAP%%NL%%RED%The Oculus%NL%
+ItemDisplay[UNI !ID oba !ETH]: %MAP%%NL%%RED%The Oculus%NL%
 //The Oculus
 ItemDisplay[UNI !ID oba ETH]: %TAN%ETH The Oculus
 //Eschuta's Temper
-ItemDisplay[UNI !ID obc !ETH]: %SOUND-35%%MAP%%NL%%RED%O Eschuta's Temper %RED%O%NL%
+ItemDisplay[UNI !ID obc !ETH]: %MAP%%NL%%RED%O Eschuta's Temper %RED%O%NL%
 //Eschuta's Temper
-ItemDisplay[UNI !ID obc ETH]: %SOUND-35%%MAP%%NL%%RED%ETH Eschuta's Temper%NL%
+ItemDisplay[UNI !ID obc ETH]: %MAP%%NL%%RED%ETH Eschuta's Temper%NL%
 //Death's Fathom
-ItemDisplay[UNI !ID obf !ETH]: %SOUND-35%%MAP%%NL%%RED%O Death's Fathom %RED%O%NL%
+ItemDisplay[UNI !ID obf !ETH]: %MAP%%NL%%RED%O Death's Fathom %RED%O%NL%
 //Death's Fathom
-ItemDisplay[UNI !ID obf ETH]: %SOUND-35%%MAP%%NL%%RED%ETH Death's Fathom%NL%
+ItemDisplay[UNI !ID obf ETH]: %MAP%%NL%%RED%ETH Death's Fathom%NL%
 
 ////Unique Druid only items
 //
 //Jalal's Mane
-ItemDisplay[UNI !ID dra !ETH]: %SOUND-35%%MAP%%NL%%RED%O %PURPLE%Jalal's Mane %RED%O%NL%
+ItemDisplay[UNI !ID dra !ETH]: %MAP%%NL%%RED%O %PURPLE%Jalal's Mane %RED%O%NL%
 //Jalal's Mane
 ItemDisplay[UNI !ID dra ETH]: %MAP%%RED%ETH Jalal's Mane
 //Cerebus' Bite
-ItemDisplay[UNI !ID drb !ETH]: %SOUND-35%%MAP%%NL%%RED%O Cerebus' Bite %RED%O%NL%
+ItemDisplay[UNI !ID drb !ETH]: %MAP%%NL%%RED%O Cerebus' Bite %RED%O%NL%
 //Cerebus' Bite
 ItemDisplay[UNI !ID drb ETH]: %TAN%ETH Cerebus' Bite
 //Ravenlore (bis raven/fire ele druid helm)
-ItemDisplay[UNI !ID dre !ETH]: %SOUND-35%%MAP%%NL%%RED%O Ravenlore %RED%O%NL%
+ItemDisplay[UNI !ID dre !ETH]: %MAP%%NL%%RED%O Ravenlore %RED%O%NL%
 //Ravenlore (bis raven/fire ele druid helm)
 ItemDisplay[UNI !ID dre ETH]: %RED%ETH %Ravenlore
 //Spirit Keeper
-ItemDisplay[UNI !ID drd !ETH]: %SOUND-35%%MAP%%NL%%RED%O Spirit Keeper %RED%O%NL%
+ItemDisplay[UNI !ID drd !ETH]: %MAP%%NL%%RED%O Spirit Keeper %RED%O%NL%
 //Spirit Keeper
 ItemDisplay[UNI !ID drd ETH]: %TAN%ETH Spirit Keeper
 
 ////Unique Paladin only items
 //
 //Alma Negra
-ItemDisplay[UNI !ID pac !ETH]: %SOUND-35%%MAP%%NL%%RED%O Alma Negra %RED%O%NL%
+ItemDisplay[UNI !ID pac !ETH]: %MAP%%NL%%RED%O Alma Negra %RED%O%NL%
 //Alma Negra
 ItemDisplay[UNI !ID pac ETH]: %RED%ETH Alma Negra
 //Herald of Zakarum
-ItemDisplay[UNI !ID pa9 !ETH]: %SOUND-35%%MAP%%NL%%RED%O %PURPLE%Herald of Zakarum %RED%O%NL%
+ItemDisplay[UNI !ID pa9 !ETH]: %MAP%%NL%%RED%O %PURPLE%Herald of Zakarum %RED%O%NL%
 //Herald of Zakarum
-ItemDisplay[UNI !ID pa9 ETH]: %SOUND-35%%MAP%%NL%%RED%ETH Herald of Zakarum%NL%
+ItemDisplay[UNI !ID pa9 ETH]: %MAP%%NL%%RED%ETH Herald of Zakarum%NL%
 //Dragonscale (Hydra paladin)
-ItemDisplay[UNI !ID pae !ETH]: %SOUND-35%%MAP%%NL%%RED%O Dragonscale %RED%O%NL%
+ItemDisplay[UNI !ID pae !ETH]: %MAP%%NL%%RED%O Dragonscale %RED%O%NL%
 //Dragonscale (Hydra paladin)
 ItemDisplay[UNI !ID pae ETH]: %RED%ETH Dragonscale
 
@@ -1699,12 +1699,12 @@ ItemDisplay[UNI !ID pae ETH]: %RED%ETH Dragonscale
 ItemDisplay[UNI !ID aq2]: %TAN%Quiver
 
 ////Unique Rings Amulets Jewels Charms
-ItemDisplay[UNI !ID (rin OR amu OR jew)]: %SOUND-35%%MAP%%NL%%PURPLE%  O %RED%%NAME%%PURPLE% O  %PURPLE%%NL%
+ItemDisplay[UNI !ID (rin OR amu OR jew)]: %MAP%%NL%%PURPLE%  O %RED%%NAME%%PURPLE% O  %PURPLE%%NL%
 
 ////Unique Charms
-ItemDisplay[UNI !ID cm1]: %SOUND-35%%MAP%%NL%%PURPLE%  O %ORANGE%Annihilus%PURPLE% O  %PURPLE%%NL%
-ItemDisplay[UNI !ID cm2]: %SOUND-35%%MAP%%NL%%PURPLE%  O %ORANGE%Hellfire Torch%PURPLE% O  %PURPLE%%NL%
-ItemDisplay[UNI !ID cm3]: %SOUND-35%%MAP%%NL%%PURPLE%  O %RED%Gheed's Fortune%PURPLE% O  %PURPLE%%NL%
+ItemDisplay[UNI !ID cm1]: %MAP%%NL%%PURPLE%  O %ORANGE%Annihilus%PURPLE% O  %PURPLE%%NL%
+ItemDisplay[UNI !ID cm2]: %MAP%%NL%%PURPLE%  O %ORANGE%Hellfire Torch%PURPLE% O  %PURPLE%%NL%
+ItemDisplay[UNI !ID cm3]: %MAP%%NL%%PURPLE%  O %RED%Gheed's Fortune%PURPLE% O  %PURPLE%%NL%
 
 ////SET ITEMS (no rings or amys edited)
 //
@@ -1867,18 +1867,18 @@ ItemDisplay[SET !ID tbt]: %GREEN%%NAME% %DARK_GREEN%Vidala's
 //Aldur's Stony Gaze
 ItemDisplay[SET !ID dr8]: %RED%¤ %GREEN%%NAME% %DARK_GREEN%Aldur's %RED%¤
 //Aldur's Advance
-ItemDisplay[SET !ID xtb]: %SOUND-35%%MAP%%NL%%RED%O %GREEN%%NAME% %DARK_GREEN%Aldur's %RED%O%NL%
+ItemDisplay[SET !ID xtb]: %MAP%%NL%%RED%O %GREEN%%NAME% %DARK_GREEN%Aldur's %RED%O%NL%
 //Aldur's Deception
-ItemDisplay[SET !ID uul]: %SOUND-35%%MAP%%NL%%RED%¤ %GREEN%%NAME% %DARK_GREEN%Aldur's %RED%¤%NL%
+ItemDisplay[SET !ID uul]: %MAP%%NL%%RED%¤ %GREEN%%NAME% %DARK_GREEN%Aldur's %RED%¤%NL%
 //Aldur's Rhythm
 ItemDisplay[SET !ID 9mt]: %GREEN%%NAME% %DARK_GREEN%Aldur's
 
 //Bul-Kathos' Children
 //
 //Bul-Kathos' Sacred Charge
-ItemDisplay[SET !ID 7gd]: %SOUND-35%%MAP%%NL%%RED%¤ %GREEN%%NAME% %DARK_GREEN%Bul-Kathos' %RED%¤%NL%
+ItemDisplay[SET !ID 7gd]: %MAP%%NL%%RED%¤ %GREEN%%NAME% %DARK_GREEN%Bul-Kathos' %RED%¤%NL%
 //Bul-Kathos' Tribal Guardian
-ItemDisplay[SET !ID 7wd]: %SOUND-35%%MAP%%NL%%RED%¤ %GREEN%%NAME% %DARK_GREEN%Bul-Kathos' %RED%¤%NL%
+ItemDisplay[SET !ID 7wd]: %MAP%%NL%%RED%¤ %GREEN%%NAME% %DARK_GREEN%Bul-Kathos' %RED%¤%NL%
 
 //Cow King's Leathers
 //
@@ -1892,7 +1892,7 @@ ItemDisplay[SET !ID vbt]: %GREEN%%NAME% %DARK_GREEN%Sander's or Cow King's
 //The Disciple
 //
 //Laying of Hands
-ItemDisplay[SET !ID ulg]: %SOUND-35%%MAP%%NL%%PURPLE%O %GREEN%%NAME% %DARK_GREEN%The Disciple %PURPLE%O%NL%
+ItemDisplay[SET !ID ulg]: %MAP%%NL%%PURPLE%O %GREEN%%NAME% %DARK_GREEN%The Disciple %PURPLE%O%NL%
 //Dark Adherent
 ItemDisplay[SET !ID uui]: %GREEN%%NAME% %DARK_GREEN%The Disciple
 //Rite of Passage
@@ -1916,11 +1916,11 @@ ItemDisplay[SET !ID paf]: %GREEN%%NAME% %DARK_GREEN%Griswold's
 //Haemosu's Adamant
 ItemDisplay[SET !ID xrs]: %GREEN%%NAME% %DARK_GREEN%Heaven's Brethren
 //Dangoon's Teaching
-ItemDisplay[SET !ID 7ma]: %SOUND-35%%MAP%%NL%%RED%¤ %GREEN%%NAME% %DARK_GREEN%Dangoon's Teaching %RED%¤%NL%
+ItemDisplay[SET !ID 7ma]: %MAP%%NL%%RED%¤ %GREEN%%NAME% %DARK_GREEN%Dangoon's Teaching %RED%¤%NL%
 //Taebaek's Glory
 ItemDisplay[SET !ID uts]: %GREEN%%NAME% %DARK_GREEN%Heaven's Brethren
 //Ondal's Almighty (50% reduced skill cooldown for 4 seconds on striking)
-ItemDisplay[SET !ID uhm]: %SOUND-35%%MAP%%NL%%RED%¤ %GREEN%%NAME% %DARK_GREEN%Ondal's Almighty %RED%¤%NL%
+ItemDisplay[SET !ID uhm]: %MAP%%NL%%RED%¤ %GREEN%%NAME% %DARK_GREEN%Ondal's Almighty %RED%¤%NL%
 
 //Hwanin's Majesty
 //
@@ -1929,7 +1929,7 @@ ItemDisplay[SET !ID xrn]: %GREEN%%NAME% %DARK_GREEN%Hwanin's
 //Hwanin's Justice
 ItemDisplay[SET !ID 9vo !ETH]: %GREEN%%NAME% %DARK_GREEN%Hwanin's
 //Hwanin's Justice Eth
-ItemDisplay[SET !ID 9vo ETH]: %SOUND-35%%MAP%%NL%%RED%¤ %GREEN%ETH %NAME% %DARK_GREEN%Hwanin's %RED%¤%NL%
+ItemDisplay[SET !ID 9vo ETH]: %MAP%%NL%%RED%¤ %GREEN%ETH %NAME% %DARK_GREEN%Hwanin's %RED%¤%NL%
 //Hwanin's Refuge
 ItemDisplay[SET !ID xcl]: %GREEN%%NAME% %DARK_GREEN%Hwanin's
 //Hwanin's Blessing
@@ -1942,7 +1942,7 @@ ItemDisplay[SET !ID ba5]: %MAP%%RED%¤ %GREEN%%NAME% %DARK_GREEN%Immortal King %
 //Immortal King's Stone Crusher
 ItemDisplay[SET !ID 7m7]: %GREEN%%NAME% %DARK_GREEN%Immortal King
 //Immortal King's Soul Cage
-ItemDisplay[SET !ID uar]: %SOUND-35%%MAP%%NL%%PURPLE%O %GREEN%%NAME% %DARK_GREEN%Immortal King %PURPLE%O%NL%
+ItemDisplay[SET !ID uar]: %MAP%%NL%%PURPLE%O %GREEN%%NAME% %DARK_GREEN%Immortal King %PURPLE%O%NL%
 //Immortal King's Detail
 ItemDisplay[SET !ID zhb]: %GREEN%%NAME% %DARK_GREEN%Immortal King
 //Immortal King's Forge
@@ -1957,7 +1957,7 @@ ItemDisplay[SET !ID ci3]: %GREEN%%NAME% %DARK_GREEN%Mavina's
 //M'avina's Caster
 ItemDisplay[SET !ID amc]: %GREEN%%NAME% %DARK_GREEN%Mavina's
 //M'avina's Embrace (+40% to freeze arrow AoE)
-ItemDisplay[SET !ID uld]: %SOUND-35%%MAP%%NL%%RED%¤ %GREEN%%NAME% %DARK_GREEN%Mavina's %RED%¤%NL%
+ItemDisplay[SET !ID uld]: %MAP%%NL%%RED%¤ %GREEN%%NAME% %DARK_GREEN%Mavina's %RED%¤%NL%
 //M'avina's Icy Clutch
 ItemDisplay[SET !ID xtg]: %GREEN%%NAME% %DARK_GREEN%Mavina's
 //M'avina's Tenet
@@ -1968,27 +1968,27 @@ ItemDisplay[SET !ID zvb]: %GREEN%%NAME% %DARK_GREEN%Mavina's
 //Natalya's Totem
 ItemDisplay[SET !ID xh9]: %GREEN%%NAME% %DARK_GREEN%Natalya's
 //Natalya's Mark
-ItemDisplay[SET !ID 7qr]: %SOUND-35%%MAP%%NL%%RED%O %GREEN%%NAME% %DARK_GREEN%Natalya's %RED%O%NL%
+ItemDisplay[SET !ID 7qr]: %MAP%%NL%%RED%O %GREEN%%NAME% %DARK_GREEN%Natalya's %RED%O%NL%
 //Natalya's Shadow
-ItemDisplay[SET !ID ucl]: %SOUND-35%%MAP%%NL%%RED%¤ %GREEN%%NAME% %DARK_GREEN%Natalya's %RED%¤%NL%
+ItemDisplay[SET !ID ucl]: %MAP%%NL%%RED%¤ %GREEN%%NAME% %DARK_GREEN%Natalya's %RED%¤%NL%
 //Natalya's Soul
-ItemDisplay[SET !ID xmb]: %SOUND-35%%MAP%%NL%%RED%¤ %GREEN%%NAME% %DARK_GREEN%Natalya's %RED%¤%NL%
+ItemDisplay[SET !ID xmb]: %MAP%%NL%%RED%¤ %GREEN%%NAME% %DARK_GREEN%Natalya's %RED%¤%NL%
 
 //Naj's Ancient Vestige
 //
 //Naj's Circlet
 ItemDisplay[SET !ID ci0]: %GREEN%%NAME% %DARK_GREEN%Naj's
 //Naj's Light Plate
-ItemDisplay[SET !ID ult]: %SOUND-35%%MAP%%NL%%RED%O %GREEN%%NAME% %DARK_GREEN%Naj's %RED%O%NL%
+ItemDisplay[SET !ID ult]: %MAP%%NL%%RED%O %GREEN%%NAME% %DARK_GREEN%Naj's %RED%O%NL%
 //Naj's Puzzler
-ItemDisplay[SET !ID 6cs]: %SOUND-35%%MAP%%NL%%RED%¤ %GREEN%%NAME% %DARK_GREEN%Naj's %RED%¤%NL%
+ItemDisplay[SET !ID 6cs]: %MAP%%NL%%RED%¤ %GREEN%%NAME% %DARK_GREEN%Naj's %RED%¤%NL%
 
 //Orphan's Call
 //
 //Guillaume's Face
-ItemDisplay[SET !ID xhm]: %SOUND-35%%MAP%%NL%%RED%O %GREEN%%NAME% %DARK_GREEN%Orphan's (Guillaume's Face) %RED%O%NL%
+ItemDisplay[SET !ID xhm]: %MAP%%NL%%RED%O %GREEN%%NAME% %DARK_GREEN%Orphan's (Guillaume's Face) %RED%O%NL%
 //Whitstan's Guard
-ItemDisplay[SET !ID xml]: %SOUND-35%%MAP%%NL%%RED%¤ %GREEN%%NAME% %DARK_GREEN%Orphan's %RED%¤%NL%
+ItemDisplay[SET !ID xml]: %MAP%%NL%%RED%¤ %GREEN%%NAME% %DARK_GREEN%Orphan's %RED%¤%NL%
 //Magnus' Skin
 ItemDisplay[SET !ID xvg]: %GREEN%%NAME% %DARK_GREEN%Orphan's
 //Wilhelm's Pride
@@ -2012,33 +2012,33 @@ ItemDisplay[SET !ID xhl]: %GREEN%%NAME% %DARK_GREEN%Sazabi's
 //Sazabi's Cobalt Redeemer
 ItemDisplay[SET !ID 7ls !ETH]: %MAP%%NL%%RED%¤ %GREEN%%NAME% %DARK_GREEN%Sazabi's %RED%¤%NL%
 //Sazabi's Cobalt Redeemer ETH
-ItemDisplay[SET !ID 7ls ETH]: %SOUND-35%%MAP%%NL%%RED%O %GREEN%ETH %NAME% %DARK_GREEN%Sazabi's %RED%O%NL%
+ItemDisplay[SET !ID 7ls ETH]: %MAP%%NL%%RED%O %GREEN%ETH %NAME% %DARK_GREEN%Sazabi's %RED%O%NL%
 //Sazabi's Ghost Liberator
 ItemDisplay[SET !ID upl]: %RED%¤ %GREEN%%NAME% %DARK_GREEN%Sazabi's %RED%¤
 
 //Tal Rasha's Wrappings
 //
 //Tal Rasha's Lidless Eye
-ItemDisplay[SET !ID oba]: %SOUND-35%%MAP%%NL%%RED%O %GREEN%%NAME% %DARK_GREEN%Tal Rasha's %RED%O%NL%
+ItemDisplay[SET !ID oba]: %MAP%%NL%%RED%O %GREEN%%NAME% %DARK_GREEN%Tal Rasha's %RED%O%NL%
 //Tal Rasha's Horadric Crest
-ItemDisplay[SET !ID xsk]: %SOUND-35%%MAP%%NL%%RED%O %GREEN%%NAME% %DARK_GREEN%Tal Rasha's %RED%O%NL%
+ItemDisplay[SET !ID xsk]: %MAP%%NL%%RED%O %GREEN%%NAME% %DARK_GREEN%Tal Rasha's %RED%O%NL%
 //Tal Rasha's Guardianship
-ItemDisplay[SET !ID uth]: %SOUND-35%%MAP%%NL%%PURPLE%O %GREEN%%NAME% %DARK_GREEN%Tal Rasha's %PURPLE%O%NL%
+ItemDisplay[SET !ID uth]: %MAP%%NL%%PURPLE%O %GREEN%%NAME% %DARK_GREEN%Tal Rasha's %PURPLE%O%NL%
 //Tal Rasha's Fine-Spun Cloth
-ItemDisplay[SET !ID zmb]: %SOUND-35%%MAP%%NL%%RED%O %GREEN%%NAME% %DARK_GREEN%Tal Rasha's %RED%O%NL%
+ItemDisplay[SET !ID zmb]: %MAP%%NL%%RED%O %GREEN%%NAME% %DARK_GREEN%Tal Rasha's %RED%O%NL%
 
 //Trang-Oul's Avatar
 //
 //Trang-Oul's Guise
 ItemDisplay[SET !ID uh9]: %MAP%%RED%¤ %GREEN%%NAME% %DARK_GREEN%Trang-Oul's %RED%¤
 //Trang-Oul's Scales
-ItemDisplay[SET !ID xul]: %SOUND-35%%MAP%%NL%%RED%¤ %GREEN%%NAME% %DARK_GREEN%Trang-Oul's %RED%¤%NL%
+ItemDisplay[SET !ID xul]: %MAP%%NL%%RED%¤ %GREEN%%NAME% %DARK_GREEN%Trang-Oul's %RED%¤%NL%
 //Trang-Oul's Wing
-ItemDisplay[SET !ID ne9]: %SOUND-35%%MAP%%NL%%RED%O %GREEN%%NAME% %DARK_GREEN%Trang-Oul's %RED%O%NL%
+ItemDisplay[SET !ID ne9]: %MAP%%NL%%RED%O %GREEN%%NAME% %DARK_GREEN%Trang-Oul's %RED%O%NL%
 //Trang-Oul's Girth
-ItemDisplay[SET !ID utc]: %SOUND-35%%MAP%%NL%%RED%O %GREEN%%NAME% %DARK_GREEN%Trang-Oul's %RED%O%NL%
+ItemDisplay[SET !ID utc]: %MAP%%NL%%RED%O %GREEN%%NAME% %DARK_GREEN%Trang-Oul's %RED%O%NL%
 //Trang-Oul's Claws
-ItemDisplay[SET !ID xmg]: %SOUND-35%%MAP%%NL%%RED%O %GREEN%%NAME% %DARK_GREEN%Trang-Oul's %RED%O%NL%
+ItemDisplay[SET !ID xmg]: %MAP%%NL%%RED%O %GREEN%%NAME% %DARK_GREEN%Trang-Oul's %RED%O%NL%
 
 ItemDisplay[SET !ID amu]: %MAP%%RED%O %GREEN%%NAME% %RED%O
 
